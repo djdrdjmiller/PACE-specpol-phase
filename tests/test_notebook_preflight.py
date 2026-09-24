@@ -25,7 +25,7 @@ def test_arctic_inputs_checked_before_login(tmp_path, monkeypatch, inputs_presen
             "export_root",
         )
     }
-    monkeypatch.setattr(paths, "load_paths", lambda: configured)
+    monkeypatch.setattr(paths, "load_paths", lambda *args, **kwargs: configured)
     if inputs_present:
         for relative in (
             "LIQUID/ocean_msr_water_wspeed_3_v6.PACE.1.1.5.2026144071240.hdf",
@@ -56,7 +56,10 @@ def test_arctic_inputs_checked_before_login(tmp_path, monkeypatch, inputs_presen
     with pytest.raises(expected) as error:
         for cell in notebook["cells"]:
             if cell["cell_type"] == "code":
-                exec(compile("".join(cell["source"]), cell["id"], "exec"), namespace)
+                source = "".join(cell["source"])
+                if source.lstrip().startswith("# Run only if") and "%pip install" in source:
+                    continue  # Environment installation is separate from the input preflight.
+                exec(compile(source, cell["id"], "exec"), namespace)
     assert calls == (["login"] if inputs_present else [])
     assert not configured["pair_cache"].exists()
     assert not configured["work_root"].exists()

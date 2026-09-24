@@ -19,12 +19,14 @@ def dashboard(
     layout="classic",
     map_framing="extent",
     graticules=True,
+    show=True,
 ):
     """Widget UI; threshold release updates local sparse counts, with no NASA I/O.
 
     The preview uses nearest-cell sampling on Robinson or regional polar maps.
     layout="slide" exports 16:9; map_framing="granule" adjusts only regional display
     bounds. NetCDF export always preserves the full native grid.
+    show=False updates the same figure without displaying widgets, for batch PNGs.
     """
     import ipywidgets as widgets
     from IPython.display import display, clear_output
@@ -519,6 +521,8 @@ def dashboard(
             + "<br>Ratio colors recenter on the cutoff; limits expand only if needed to bracket it. "
             "Preview uses nearest-cell sampling and can miss small patches; export preserves every native grid cell."
         )
+        if not show:
+            return
         with output:
             clear_output(wait=True)
             if slide:
@@ -561,7 +565,8 @@ def dashboard(
     minimum.observe(update, names="value")
     export.on_click(save)
     ui = widgets.VBox([widgets.HBox([slider, minimum]), export, status, output])
-    display(ui)
+    if show:
+        display(ui)
     update()
     return {
         "widget": ui,
@@ -573,6 +578,8 @@ def dashboard(
         "index": index,
         "mean_images": mean_images,
         "mean_colorbars": mean_bars,
+        "map_axes": [axm] + [im.axes for im in mean_images],
+        "phase_image": map_image,
     }
 
 

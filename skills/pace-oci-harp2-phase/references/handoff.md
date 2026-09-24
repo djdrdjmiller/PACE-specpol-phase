@@ -138,3 +138,19 @@ User communication: provide concise scientific explanations, actionable notebook
 
 ## Display update — 2026-09-23
 `dashboard` now accepts `layout="slide"` (16:9), `map_framing="granule"` (regional occupied-cell framing), and `graticules=True`. The Arctic notebook opts into these; defaults remain classic/extent for existing callers. Revert with `layout="classic", map_framing="extent"`. This is display-only; scientific caches need no rebuilding. See `Documentation/dashboard.md`. No PowerPoint or interactive slide deck was created.
+
+## Presentation workflow — 2026-09-24
+
+`Validation/notebooks/presentation_arcsix_single_granule.ipynb` is the presentation
+companion to the unchanged Arctic analysis notebook. It verifies the completed
+single-granule file provenance chain and reads prepared references; no scientific
+cache resume or LUT rebuilding occurs. New modules `validation/vis_truecolor.py`
+and `validation/vis_presentation.py` extract/cache visible L1C TOA RGB and export
+aligned threshold states. Default thresholds 1.10/1.27/1.45 are illustrative.
+All full frames and map crops share the dashboard's axes and fixed framing.
+RGB is a full-scene, gamma-enhanced 645/555/469 nm approximate true-color view at
+5 km L1C resolution, not atmospheric correction or independent phase evidence.
+Actual wavelengths, unknown QC, view selection, geometry, and display parameters
+are recorded. First RGB read needs exact-granule Earthdata/S3 access (or a local
+original L1C); subsequent reads use the extracted visible cache. See
+`Documentation/dashboard.md` for settings, caveats, and slide assembly.
