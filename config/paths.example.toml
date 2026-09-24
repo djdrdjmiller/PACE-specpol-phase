@@ -1,0 +1,10 @@
+# Copy to paths.local.toml. Each notebook/experiment should use its own cache paths.
+# Relative values resolve against THIS file's directory, never the notebook cwd.
+# Set PACE_CONFIG to the absolute filename to run from outside the repository.
+[paths]
+lut_root = "~/Data/LUT/OCI_Cloud/PACE_265_LUTS_2026"
+pair_cache = "../work/september_20240903_20240905/pairs"
+work_root = "../work/september_20240903_20240905/reference"
+airborne_root = "../data/arcsix"
+export_root = "../outputs/september_20240903_20240905"
+

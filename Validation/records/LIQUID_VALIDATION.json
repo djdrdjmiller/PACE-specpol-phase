@@ -1,0 +1,217 @@
+{
+  "status": "pilot tested; not full operational reproduction",
+  "test_date": "2026-09-22",
+  "offline_tests_passed": 16,
+  "source_commit": "5d057d85310e594a2efc4ccf5ff01dfd43954c14",
+  "live_scope": "one existing HARP2/OCI L1C cache pair, September 3 2024; adjacent native OCI CLD granules",
+  "paired_samples": 11498,
+  "matched_native_oci_samples": 11498,
+  "distance_km_p50_max": [
+    0.5192393660545349,
+    1.881910800933838
+  ],
+  "absolute_time_difference_s_max": 0.1169896125793457,
+  "above_cloud_water_valid": 10609,
+  "reference_variants": {
+    "oci_2260": {
+      "valid": 7765,
+      "normalized_ratio_p05_p50_p95": [
+        0.9317879796028137,
+        0.9964100122451782,
+        1.0850146532058715
+      ]
+    },
+    "oci_2130": {
+      "valid": 8755,
+      "normalized_ratio_p05_p50_p95": [
+        0.9005056619644165,
+        0.9948741793632507,
+        1.1004459619522096
+      ]
+    },
+    "harp2_2260": {
+      "valid": 7567,
+      "normalized_ratio_p05_p50_p95": [
+        0.8550637662410736,
+        0.9826574325561523,
+        1.0909872412681578
+      ]
+    },
+    "harp2_2130": {
+      "valid": 8256,
+      "normalized_ratio_p05_p50_p95": [
+        0.8585892468690872,
+        0.9848053455352783,
+        1.094300925731659
+      ]
+    }
+  },
+  "common_valid": 7356,
+  "exclusion_counts": {
+    "oci_2260": {
+      "valid": 7765,
+      "excluded": 3733,
+      "ice_cer_as_liquid_valid": 343,
+      "reason_counts": {
+        "cer": 3698,
+        "cot": 3471,
+        "transmission": 907,
+        "reflectance": 3733,
+        "surface": 0,
+        "phase": 736,
+        "match": 0
+      }
+    },
+    "oci_2130": {
+      "valid": 8755,
+      "excluded": 2743,
+      "ice_cer_as_liquid_valid": 588,
+      "reason_counts": {
+        "cer": 2697,
+        "cot": 2673,
+        "transmission": 907,
+        "reflectance": 2743,
+        "surface": 0,
+        "phase": 736,
+        "match": 0
+      }
+    },
+    "harp2_2260": {
+      "valid": 7567,
+      "excluded": 3931,
+      "ice_cer_as_liquid_valid": 0,
+      "reason_counts": {
+        "cer": 1090,
+        "cot": 3471,
+        "transmission": 907,
+        "reflectance": 3931,
+        "surface": 0,
+        "phase": 736,
+        "match": 0
+      }
+    },
+    "harp2_2130": {
+      "valid": 8256,
+      "excluded": 3242,
+      "ice_cer_as_liquid_valid": 0,
+      "reason_counts": {
+        "cer": 1090,
+        "cot": 2673,
+        "transmission": 907,
+        "reflectance": 3242,
+        "surface": 0,
+        "phase": 736,
+        "match": 0
+      }
+    }
+  },
+  "native_products_and_ancillary": {
+    "sources": [
+      {
+        "cloud_file": "PACE_OCI.20240903T001245.L2.CLD.V3_1.nc",
+        "cloud_concept_id": "G3733902241-OB_CLOUD",
+        "processing_software": "9.11.0-3f35fce06",
+        "input_parameters": {
+          "metafile": "PACE_OCI.20240903T001245.L2.CLD.V3_1.nc.meta",
+          "met1": "GMAO_MERRA2.20240903T000000.MET.nc",
+          "met2": "GMAO_MERRA2.20240903T010000.MET.nc",
+          "met3": "GMAO_MERRA2.20240903T010000.MET.nc",
+          "anc_profile1": "GMAO_MERRA2.20240903T000000.PROFILE.nc",
+          "anc_profile2": "GMAO_MERRA2.20240903T030000.PROFILE.nc",
+          "anc_profile3": "GMAO_MERRA2.20240903T030000.PROFILE.nc"
+        },
+        "ancillary_files": [
+          {
+            "file": "GMAO_MERRA2.20240903T000000.PROFILE.nc",
+            "sha256": "79c2c894e32e0b051d8f01334c6406bc44cd82d89b000ac88ec6fc8291fdfb78"
+          },
+          {
+            "file": "GMAO_MERRA2.20240903T030000.PROFILE.nc",
+            "sha256": "7e11f695d8d6cc769a2797460f6017dcfb83ff092cdb8e43120900916f6c972e"
+          },
+          {
+            "file": "GMAO_MERRA2.20240903T000000.MET.nc",
+            "sha256": "a6850dbc68ce7c723ddf14b434c83ea7abe1c7381a62272ab19111aee93dfb05"
+          },
+          {
+            "file": "GMAO_MERRA2.20240903T010000.MET.nc",
+            "sha256": "5b31f70d9141cb65ec19283a037653d368f9325019f9d44095df427acab58be7"
+          }
+        ]
+      },
+      {
+        "cloud_file": "PACE_OCI.20240903T001741.L2.CLD.V3_1.nc",
+        "cloud_concept_id": "G3733902365-OB_CLOUD",
+        "processing_software": "9.11.0-3f35fce06",
+        "input_parameters": {
+          "metafile": "PACE_OCI.20240903T001741.L2.CLD.V3_1.nc.meta",
+          "met1": "GMAO_MERRA2.20240903T000000.MET.nc",
+          "met2": "GMAO_MERRA2.20240903T010000.MET.nc",
+          "met3": "GMAO_MERRA2.20240903T010000.MET.nc",
+          "anc_profile1": "GMAO_MERRA2.20240903T000000.PROFILE.nc",
+          "anc_profile2": "GMAO_MERRA2.20240903T030000.PROFILE.nc",
+          "anc_profile3": "GMAO_MERRA2.20240903T030000.PROFILE.nc"
+        },
+        "ancillary_files": [
+          {
+            "file": "GMAO_MERRA2.20240903T000000.PROFILE.nc",
+            "sha256": "79c2c894e32e0b051d8f01334c6406bc44cd82d89b000ac88ec6fc8291fdfb78"
+          },
+          {
+            "file": "GMAO_MERRA2.20240903T030000.PROFILE.nc",
+            "sha256": "7e11f695d8d6cc769a2797460f6017dcfb83ff092cdb8e43120900916f6c972e"
+          },
+          {
+            "file": "GMAO_MERRA2.20240903T000000.MET.nc",
+            "sha256": "a6850dbc68ce7c723ddf14b434c83ea7abe1c7381a62272ab19111aee93dfb05"
+          },
+          {
+            "file": "GMAO_MERRA2.20240903T010000.MET.nc",
+            "sha256": "5b31f70d9141cb65ec19283a037653d368f9325019f9d44095df427acab58be7"
+          }
+        ]
+      }
+    ],
+    "spatial_transfer": "nearest time-compatible native OCI L2 pixel, not footprint mean; no parallax correction",
+    "profile_handling": "101-level log-pressure interpolation; near-surface affected profiles rejected",
+    "time_handling": "nadir minus view offset; legacy cache timestamps repaired; adjacent granules searched"
+  },
+  "LUT_files": {
+    "ms_path": {
+      "file": "ocean_msr_water_wspeed_3_v6.PACE.1.1.5.2026144071240.hdf",
+      "sha256": "c965f75ab679c000e9ce05998fef642a404ec6cbcac2f3bd7de32479855e7083"
+    },
+    "phase_path": {
+      "file": "IceAndWaterPhaseFunctionData_v6.PACE.1.1.5.2026142144440.hdf",
+      "sha256": "d09a3247425aead28c3751f687e925689cdfb4f6a04bfb3484da7f0a9309e541"
+    },
+    "transmittance_path": {
+      "file": "Transmittance_OCI.hdf",
+      "sha256": "1d4338ab293197cae189f46adb6b909b3b324c7eb8f80196dbc62a3f36f2bc3b"
+    }
+  },
+  "verified": [
+    "actual supplied HDF4 LUT reads",
+    "two-way correction and liquid normalization",
+    "all four variants",
+    "common population",
+    "resumable reference cache",
+    "variant and ratio-space widget callbacks",
+    "threshold slider",
+    "PNG/NetCDF export",
+    "notebook syntax and schema"
+  ],
+  "not_verified": [
+    "full three-day run",
+    "AWS direct S3 transport (live test used HTTPS)",
+    "bit-for-bit agreement with original OCI processing release",
+    "independent radiative-transfer or phase-threshold validation"
+  ],
+  "deliberate_limits": [
+    "3 m/s ocean LUT applied globally, including land and snow/ice",
+    "nearest native microphysics, not L1C footprint averaging",
+    "near-surface repaired profiles excluded",
+    "unpopulated transmission corners excluded",
+    "legacy time-boundary exclusions not recoverable from cached samples"
+  ]
+}

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pace-specpol-phase"
+version = "0.1.0"
+description = "Exploratory spectropolarimetric cloud-phase analysis with PACE OCI and HARP2"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "earthaccess>=0.16,<1", "xarray>=2025.1", "numpy>=1.26",
+  "dask[array]>=2024.12", "scipy>=1.12", "h5netcdf>=1.4", "h5py>=3.10",
+  "pyhdf>=0.11", "requests>=2.31", "fsspec>=2024.12",
+]
+
+[project.optional-dependencies]
+validation = ["matplotlib>=3.8", "cartopy>=0.23", "ipywidgets>=8", "ipython>=8", "pandas>=2.2", "jupyterlab>=4"]
+test = ["pytest>=8", "nbformat>=5", "pandas>=2.2"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

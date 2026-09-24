@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-22",
+  "lidar_file": "ARCSIX-HSRL-CloudAndSurface_G3_20240610_R1_L1.h5",
+  "actual_lidar_profiles": 31683,
+  "time_start": "2024-06-10 10:58:05.999999998",
+  "time_end": "2024-06-10 15:24:12.571999999",
+  "top_window_diagnostic_counts": {
+    "unknown": 20888,
+    "water_dominant": 6039,
+    "ambiguous_or_HOI": 3161,
+    "ice_dominant": 1595
+  },
+  "tests": "6 airborne unit tests plus 16 existing tests; actual HSRL read and FCDP header/row preview parsed; curtain rendered",
+  "not_run": [
+    "actual Arctic satellite-aircraft matchups",
+    "Earthaccess airborne download wrapper in AWS",
+    "full P-3 navigation merge",
+    "independently labeled LTMP tuning",
+    "3D radiative correction"
+  ],
+  "cloud_top_definition": "highest classified cloud-mask bin below aircraft and above surface, not property-retrieval cloud-top height"
+}

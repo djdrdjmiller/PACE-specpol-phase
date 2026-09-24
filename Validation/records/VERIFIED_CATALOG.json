@@ -1,0 +1,5698 @@
+{
+  "verified_on": "2026-09-21",
+  "period_UTC": [
+    "2024-09-03",
+    "2024-09-05"
+  ],
+  "harp_collection": "PACE_HARP2_L2_CLOUD_GPC",
+  "harp_version": "4.0",
+  "oci_collection": "PACE_OCI_L1C_SCI",
+  "oci_version": "3",
+  "harp_count": 437,
+  "oci_count": 437,
+  "matched_timestamp_count": 437,
+  "unpaired_harp": [],
+  "pairs": [
+    {
+      "stamp": "20240903T001241",
+      "harp": {
+        "stamp": "20240903T001241",
+        "name": "PACE_HARP2.20240903T001241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238325-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T001241",
+        "name": "PACE_OCI.20240903T001241.L1C.V3.5km.nc",
+        "concept_id": "G3408276036-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T001741",
+      "harp": {
+        "stamp": "20240903T001741",
+        "name": "PACE_HARP2.20240903T001741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238322-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T001741",
+        "name": "PACE_OCI.20240903T001741.L1C.V3.5km.nc",
+        "concept_id": "G3408276055-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T002241",
+      "harp": {
+        "stamp": "20240903T002241",
+        "name": "PACE_HARP2.20240903T002241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238301-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T002241",
+        "name": "PACE_OCI.20240903T002241.L1C.V3.5km.nc",
+        "concept_id": "G3408276070-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T002741",
+      "harp": {
+        "stamp": "20240903T002741",
+        "name": "PACE_HARP2.20240903T002741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238328-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T002741",
+        "name": "PACE_OCI.20240903T002741.L1C.V3.5km.nc",
+        "concept_id": "G3408276091-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T003241",
+      "harp": {
+        "stamp": "20240903T003241",
+        "name": "PACE_HARP2.20240903T003241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238316-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T003241",
+        "name": "PACE_OCI.20240903T003241.L1C.V3.5km.nc",
+        "concept_id": "G3408276079-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T003741",
+      "harp": {
+        "stamp": "20240903T003741",
+        "name": "PACE_HARP2.20240903T003741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238320-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T003741",
+        "name": "PACE_OCI.20240903T003741.L1C.V3.5km.nc",
+        "concept_id": "G3408276095-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T004241",
+      "harp": {
+        "stamp": "20240903T004241",
+        "name": "PACE_HARP2.20240903T004241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238344-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T004241",
+        "name": "PACE_OCI.20240903T004241.L1C.V3.5km.nc",
+        "concept_id": "G3408276093-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T004741",
+      "harp": {
+        "stamp": "20240903T004741",
+        "name": "PACE_HARP2.20240903T004741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238321-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T004741",
+        "name": "PACE_OCI.20240903T004741.L1C.V3.5km.nc",
+        "concept_id": "G3408276096-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T005241",
+      "harp": {
+        "stamp": "20240903T005241",
+        "name": "PACE_HARP2.20240903T005241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238333-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T005241",
+        "name": "PACE_OCI.20240903T005241.L1C.V3.5km.nc",
+        "concept_id": "G3408276101-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T005741",
+      "harp": {
+        "stamp": "20240903T005741",
+        "name": "PACE_HARP2.20240903T005741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238307-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T005741",
+        "name": "PACE_OCI.20240903T005741.L1C.V3.5km.nc",
+        "concept_id": "G3408276107-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T015059",
+      "harp": {
+        "stamp": "20240903T015059",
+        "name": "PACE_HARP2.20240903T015059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238319-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T015059",
+        "name": "PACE_OCI.20240903T015059.L1C.V3.5km.nc",
+        "concept_id": "G3408276108-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T015559",
+      "harp": {
+        "stamp": "20240903T015559",
+        "name": "PACE_HARP2.20240903T015559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238332-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T015559",
+        "name": "PACE_OCI.20240903T015559.L1C.V3.5km.nc",
+        "concept_id": "G3408276109-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T020059",
+      "harp": {
+        "stamp": "20240903T020059",
+        "name": "PACE_HARP2.20240903T020059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238318-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T020059",
+        "name": "PACE_OCI.20240903T020059.L1C.V3.5km.nc",
+        "concept_id": "G3408276115-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T020559",
+      "harp": {
+        "stamp": "20240903T020559",
+        "name": "PACE_HARP2.20240903T020559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238339-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T020559",
+        "name": "PACE_OCI.20240903T020559.L1C.V3.5km.nc",
+        "concept_id": "G3408277988-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T021059",
+      "harp": {
+        "stamp": "20240903T021059",
+        "name": "PACE_HARP2.20240903T021059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238340-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T021059",
+        "name": "PACE_OCI.20240903T021059.L1C.V3.5km.nc",
+        "concept_id": "G3408276131-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T021559",
+      "harp": {
+        "stamp": "20240903T021559",
+        "name": "PACE_HARP2.20240903T021559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238327-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T021559",
+        "name": "PACE_OCI.20240903T021559.L1C.V3.5km.nc",
+        "concept_id": "G3408276120-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T022059",
+      "harp": {
+        "stamp": "20240903T022059",
+        "name": "PACE_HARP2.20240903T022059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238324-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T022059",
+        "name": "PACE_OCI.20240903T022059.L1C.V3.5km.nc",
+        "concept_id": "G3408276146-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T022559",
+      "harp": {
+        "stamp": "20240903T022559",
+        "name": "PACE_HARP2.20240903T022559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238323-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T022559",
+        "name": "PACE_OCI.20240903T022559.L1C.V3.5km.nc",
+        "concept_id": "G3408276123-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T023059",
+      "harp": {
+        "stamp": "20240903T023059",
+        "name": "PACE_HARP2.20240903T023059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238330-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T023059",
+        "name": "PACE_OCI.20240903T023059.L1C.V3.5km.nc",
+        "concept_id": "G3408276137-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T032916",
+      "harp": {
+        "stamp": "20240903T032916",
+        "name": "PACE_HARP2.20240903T032916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238336-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T032916",
+        "name": "PACE_OCI.20240903T032916.L1C.V3.5km.nc",
+        "concept_id": "G3408276156-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T033416",
+      "harp": {
+        "stamp": "20240903T033416",
+        "name": "PACE_HARP2.20240903T033416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238352-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T033416",
+        "name": "PACE_OCI.20240903T033416.L1C.V3.5km.nc",
+        "concept_id": "G3408277949-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T033916",
+      "harp": {
+        "stamp": "20240903T033916",
+        "name": "PACE_HARP2.20240903T033916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238326-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T033916",
+        "name": "PACE_OCI.20240903T033916.L1C.V3.5km.nc",
+        "concept_id": "G3408277969-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T034416",
+      "harp": {
+        "stamp": "20240903T034416",
+        "name": "PACE_HARP2.20240903T034416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238334-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T034416",
+        "name": "PACE_OCI.20240903T034416.L1C.V3.5km.nc",
+        "concept_id": "G3408276188-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T034916",
+      "harp": {
+        "stamp": "20240903T034916",
+        "name": "PACE_HARP2.20240903T034916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238338-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T034916",
+        "name": "PACE_OCI.20240903T034916.L1C.V3.5km.nc",
+        "concept_id": "G3406526400-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T035416",
+      "harp": {
+        "stamp": "20240903T035416",
+        "name": "PACE_HARP2.20240903T035416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238335-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T035416",
+        "name": "PACE_OCI.20240903T035416.L1C.V3.5km.nc",
+        "concept_id": "G3408276148-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T035916",
+      "harp": {
+        "stamp": "20240903T035916",
+        "name": "PACE_HARP2.20240903T035916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238329-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T035916",
+        "name": "PACE_OCI.20240903T035916.L1C.V3.5km.nc",
+        "concept_id": "G3408276157-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T040416",
+      "harp": {
+        "stamp": "20240903T040416",
+        "name": "PACE_HARP2.20240903T040416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238331-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T040416",
+        "name": "PACE_OCI.20240903T040416.L1C.V3.5km.nc",
+        "concept_id": "G3408276169-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T040916",
+      "harp": {
+        "stamp": "20240903T040916",
+        "name": "PACE_HARP2.20240903T040916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238345-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T040916",
+        "name": "PACE_OCI.20240903T040916.L1C.V3.5km.nc",
+        "concept_id": "G3408276173-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T041416",
+      "harp": {
+        "stamp": "20240903T041416",
+        "name": "PACE_HARP2.20240903T041416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238350-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T041416",
+        "name": "PACE_OCI.20240903T041416.L1C.V3.5km.nc",
+        "concept_id": "G3408276166-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T050734",
+      "harp": {
+        "stamp": "20240903T050734",
+        "name": "PACE_HARP2.20240903T050734.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238341-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T050734",
+        "name": "PACE_OCI.20240903T050734.L1C.V3.5km.nc",
+        "concept_id": "G3408276190-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T051234",
+      "harp": {
+        "stamp": "20240903T051234",
+        "name": "PACE_HARP2.20240903T051234.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238358-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T051234",
+        "name": "PACE_OCI.20240903T051234.L1C.V3.5km.nc",
+        "concept_id": "G3406526440-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T051734",
+      "harp": {
+        "stamp": "20240903T051734",
+        "name": "PACE_HARP2.20240903T051734.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238363-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T051734",
+        "name": "PACE_OCI.20240903T051734.L1C.V3.5km.nc",
+        "concept_id": "G3408276176-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T052234",
+      "harp": {
+        "stamp": "20240903T052234",
+        "name": "PACE_HARP2.20240903T052234.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238357-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T052234",
+        "name": "PACE_OCI.20240903T052234.L1C.V3.5km.nc",
+        "concept_id": "G3408276189-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T052734",
+      "harp": {
+        "stamp": "20240903T052734",
+        "name": "PACE_HARP2.20240903T052734.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238348-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T052734",
+        "name": "PACE_OCI.20240903T052734.L1C.V3.5km.nc",
+        "concept_id": "G3408276185-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T053234",
+      "harp": {
+        "stamp": "20240903T053234",
+        "name": "PACE_HARP2.20240903T053234.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238362-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T053234",
+        "name": "PACE_OCI.20240903T053234.L1C.V3.5km.nc",
+        "concept_id": "G3408276186-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T053734",
+      "harp": {
+        "stamp": "20240903T053734",
+        "name": "PACE_HARP2.20240903T053734.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238354-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T053734",
+        "name": "PACE_OCI.20240903T053734.L1C.V3.5km.nc",
+        "concept_id": "G3408276193-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T054234",
+      "harp": {
+        "stamp": "20240903T054234",
+        "name": "PACE_HARP2.20240903T054234.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238365-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T054234",
+        "name": "PACE_OCI.20240903T054234.L1C.V3.5km.nc",
+        "concept_id": "G3408276210-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T054734",
+      "harp": {
+        "stamp": "20240903T054734",
+        "name": "PACE_HARP2.20240903T054734.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238349-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T054734",
+        "name": "PACE_OCI.20240903T054734.L1C.V3.5km.nc",
+        "concept_id": "G3408276200-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T055234",
+      "harp": {
+        "stamp": "20240903T055234",
+        "name": "PACE_HARP2.20240903T055234.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238346-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T055234",
+        "name": "PACE_OCI.20240903T055234.L1C.V3.5km.nc",
+        "concept_id": "G3408276204-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T064551",
+      "harp": {
+        "stamp": "20240903T064551",
+        "name": "PACE_HARP2.20240903T064551.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238337-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T064551",
+        "name": "PACE_OCI.20240903T064551.L1C.V3.5km.nc",
+        "concept_id": "G3408276208-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T065051",
+      "harp": {
+        "stamp": "20240903T065051",
+        "name": "PACE_HARP2.20240903T065051.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238342-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T065051",
+        "name": "PACE_OCI.20240903T065051.L1C.V3.5km.nc",
+        "concept_id": "G3408276219-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T065551",
+      "harp": {
+        "stamp": "20240903T065551",
+        "name": "PACE_HARP2.20240903T065551.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238359-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T065551",
+        "name": "PACE_OCI.20240903T065551.L1C.V3.5km.nc",
+        "concept_id": "G3408276215-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T070051",
+      "harp": {
+        "stamp": "20240903T070051",
+        "name": "PACE_HARP2.20240903T070051.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238360-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T070051",
+        "name": "PACE_OCI.20240903T070051.L1C.V3.5km.nc",
+        "concept_id": "G3408276221-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T070551",
+      "harp": {
+        "stamp": "20240903T070551",
+        "name": "PACE_HARP2.20240903T070551.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238366-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T070551",
+        "name": "PACE_OCI.20240903T070551.L1C.V3.5km.nc",
+        "concept_id": "G3408278053-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T071051",
+      "harp": {
+        "stamp": "20240903T071051",
+        "name": "PACE_HARP2.20240903T071051.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238375-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T071051",
+        "name": "PACE_OCI.20240903T071051.L1C.V3.5km.nc",
+        "concept_id": "G3408276217-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T071551",
+      "harp": {
+        "stamp": "20240903T071551",
+        "name": "PACE_HARP2.20240903T071551.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238347-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T071551",
+        "name": "PACE_OCI.20240903T071551.L1C.V3.5km.nc",
+        "concept_id": "G3408276223-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T072051",
+      "harp": {
+        "stamp": "20240903T072051",
+        "name": "PACE_HARP2.20240903T072051.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238369-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T072051",
+        "name": "PACE_OCI.20240903T072051.L1C.V3.5km.nc",
+        "concept_id": "G3406526462-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T072551",
+      "harp": {
+        "stamp": "20240903T072551",
+        "name": "PACE_HARP2.20240903T072551.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238374-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T072551",
+        "name": "PACE_OCI.20240903T072551.L1C.V3.5km.nc",
+        "concept_id": "G3408276224-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T073051",
+      "harp": {
+        "stamp": "20240903T073051",
+        "name": "PACE_HARP2.20240903T073051.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238356-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T073051",
+        "name": "PACE_OCI.20240903T073051.L1C.V3.5km.nc",
+        "concept_id": "G3408276231-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T082409",
+      "harp": {
+        "stamp": "20240903T082409",
+        "name": "PACE_HARP2.20240903T082409.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238367-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T082409",
+        "name": "PACE_OCI.20240903T082409.L1C.V3.5km.nc",
+        "concept_id": "G3408276237-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T082909",
+      "harp": {
+        "stamp": "20240903T082909",
+        "name": "PACE_HARP2.20240903T082909.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238376-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T082909",
+        "name": "PACE_OCI.20240903T082909.L1C.V3.5km.nc",
+        "concept_id": "G3408277987-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T083409",
+      "harp": {
+        "stamp": "20240903T083409",
+        "name": "PACE_HARP2.20240903T083409.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238379-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T083409",
+        "name": "PACE_OCI.20240903T083409.L1C.V3.5km.nc",
+        "concept_id": "G3406526469-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T083909",
+      "harp": {
+        "stamp": "20240903T083909",
+        "name": "PACE_HARP2.20240903T083909.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238389-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T083909",
+        "name": "PACE_OCI.20240903T083909.L1C.V3.5km.nc",
+        "concept_id": "G3408277993-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T084409",
+      "harp": {
+        "stamp": "20240903T084409",
+        "name": "PACE_HARP2.20240903T084409.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238373-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T084409",
+        "name": "PACE_OCI.20240903T084409.L1C.V3.5km.nc",
+        "concept_id": "G3408278032-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T084909",
+      "harp": {
+        "stamp": "20240903T084909",
+        "name": "PACE_HARP2.20240903T084909.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238364-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T084909",
+        "name": "PACE_OCI.20240903T084909.L1C.V3.5km.nc",
+        "concept_id": "G3408278055-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T085409",
+      "harp": {
+        "stamp": "20240903T085409",
+        "name": "PACE_HARP2.20240903T085409.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238368-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T085409",
+        "name": "PACE_OCI.20240903T085409.L1C.V3.5km.nc",
+        "concept_id": "G3408278029-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T085909",
+      "harp": {
+        "stamp": "20240903T085909",
+        "name": "PACE_HARP2.20240903T085909.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238370-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T085909",
+        "name": "PACE_OCI.20240903T085909.L1C.V3.5km.nc",
+        "concept_id": "G3408276243-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T090409",
+      "harp": {
+        "stamp": "20240903T090409",
+        "name": "PACE_HARP2.20240903T090409.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238378-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T090409",
+        "name": "PACE_OCI.20240903T090409.L1C.V3.5km.nc",
+        "concept_id": "G3408276258-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T090909",
+      "harp": {
+        "stamp": "20240903T090909",
+        "name": "PACE_HARP2.20240903T090909.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238383-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T090909",
+        "name": "PACE_OCI.20240903T090909.L1C.V3.5km.nc",
+        "concept_id": "G3408276242-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T100227",
+      "harp": {
+        "stamp": "20240903T100227",
+        "name": "PACE_HARP2.20240903T100227.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238361-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T100227",
+        "name": "PACE_OCI.20240903T100227.L1C.V3.5km.nc",
+        "concept_id": "G3408276241-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T100727",
+      "harp": {
+        "stamp": "20240903T100727",
+        "name": "PACE_HARP2.20240903T100727.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238388-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T100727",
+        "name": "PACE_OCI.20240903T100727.L1C.V3.5km.nc",
+        "concept_id": "G3408276255-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T101227",
+      "harp": {
+        "stamp": "20240903T101227",
+        "name": "PACE_HARP2.20240903T101227.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238386-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T101227",
+        "name": "PACE_OCI.20240903T101227.L1C.V3.5km.nc",
+        "concept_id": "G3408276266-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T101727",
+      "harp": {
+        "stamp": "20240903T101727",
+        "name": "PACE_HARP2.20240903T101727.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238381-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T101727",
+        "name": "PACE_OCI.20240903T101727.L1C.V3.5km.nc",
+        "concept_id": "G3406413255-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T102227",
+      "harp": {
+        "stamp": "20240903T102227",
+        "name": "PACE_HARP2.20240903T102227.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238382-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T102227",
+        "name": "PACE_OCI.20240903T102227.L1C.V3.5km.nc",
+        "concept_id": "G3408278018-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T102727",
+      "harp": {
+        "stamp": "20240903T102727",
+        "name": "PACE_HARP2.20240903T102727.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238402-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T102727",
+        "name": "PACE_OCI.20240903T102727.L1C.V3.5km.nc",
+        "concept_id": "G3408276328-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T103227",
+      "harp": {
+        "stamp": "20240903T103227",
+        "name": "PACE_HARP2.20240903T103227.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238405-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T103227",
+        "name": "PACE_OCI.20240903T103227.L1C.V3.5km.nc",
+        "concept_id": "G3408276279-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T103727",
+      "harp": {
+        "stamp": "20240903T103727",
+        "name": "PACE_HARP2.20240903T103727.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238385-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T103727",
+        "name": "PACE_OCI.20240903T103727.L1C.V3.5km.nc",
+        "concept_id": "G3408276300-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T104227",
+      "harp": {
+        "stamp": "20240903T104227",
+        "name": "PACE_HARP2.20240903T104227.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238384-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T104227",
+        "name": "PACE_OCI.20240903T104227.L1C.V3.5km.nc",
+        "concept_id": "G3408276294-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T104727",
+      "harp": {
+        "stamp": "20240903T104727",
+        "name": "PACE_HARP2.20240903T104727.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238390-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T104727",
+        "name": "PACE_OCI.20240903T104727.L1C.V3.5km.nc",
+        "concept_id": "G3408276326-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T114044",
+      "harp": {
+        "stamp": "20240903T114044",
+        "name": "PACE_HARP2.20240903T114044.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238395-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T114044",
+        "name": "PACE_OCI.20240903T114044.L1C.V3.5km.nc",
+        "concept_id": "G3408276307-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T114544",
+      "harp": {
+        "stamp": "20240903T114544",
+        "name": "PACE_HARP2.20240903T114544.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238394-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T114544",
+        "name": "PACE_OCI.20240903T114544.L1C.V3.5km.nc",
+        "concept_id": "G3408276327-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T115044",
+      "harp": {
+        "stamp": "20240903T115044",
+        "name": "PACE_HARP2.20240903T115044.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238393-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T115044",
+        "name": "PACE_OCI.20240903T115044.L1C.V3.5km.nc",
+        "concept_id": "G3408276314-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T115544",
+      "harp": {
+        "stamp": "20240903T115544",
+        "name": "PACE_HARP2.20240903T115544.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238387-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T115544",
+        "name": "PACE_OCI.20240903T115544.L1C.V3.5km.nc",
+        "concept_id": "G3408276322-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T120044",
+      "harp": {
+        "stamp": "20240903T120044",
+        "name": "PACE_HARP2.20240903T120044.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238397-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T120044",
+        "name": "PACE_OCI.20240903T120044.L1C.V3.5km.nc",
+        "concept_id": "G3408276319-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T120544",
+      "harp": {
+        "stamp": "20240903T120544",
+        "name": "PACE_HARP2.20240903T120544.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238410-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T120544",
+        "name": "PACE_OCI.20240903T120544.L1C.V3.5km.nc",
+        "concept_id": "G3408276331-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T121044",
+      "harp": {
+        "stamp": "20240903T121044",
+        "name": "PACE_HARP2.20240903T121044.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238392-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T121044",
+        "name": "PACE_OCI.20240903T121044.L1C.V3.5km.nc",
+        "concept_id": "G3408276329-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T121544",
+      "harp": {
+        "stamp": "20240903T121544",
+        "name": "PACE_HARP2.20240903T121544.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238406-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T121544",
+        "name": "PACE_OCI.20240903T121544.L1C.V3.5km.nc",
+        "concept_id": "G3408276342-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T122044",
+      "harp": {
+        "stamp": "20240903T122044",
+        "name": "PACE_HARP2.20240903T122044.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238408-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T122044",
+        "name": "PACE_OCI.20240903T122044.L1C.V3.5km.nc",
+        "concept_id": "G3408276339-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T122544",
+      "harp": {
+        "stamp": "20240903T122544",
+        "name": "PACE_HARP2.20240903T122544.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238409-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T122544",
+        "name": "PACE_OCI.20240903T122544.L1C.V3.5km.nc",
+        "concept_id": "G3408276347-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T131902",
+      "harp": {
+        "stamp": "20240903T131902",
+        "name": "PACE_HARP2.20240903T131902.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238401-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T131902",
+        "name": "PACE_OCI.20240903T131902.L1C.V3.5km.nc",
+        "concept_id": "G3408276425-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T132402",
+      "harp": {
+        "stamp": "20240903T132402",
+        "name": "PACE_HARP2.20240903T132402.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238391-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T132402",
+        "name": "PACE_OCI.20240903T132402.L1C.V3.5km.nc",
+        "concept_id": "G3408276398-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T132902",
+      "harp": {
+        "stamp": "20240903T132902",
+        "name": "PACE_HARP2.20240903T132902.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238404-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T132902",
+        "name": "PACE_OCI.20240903T132902.L1C.V3.5km.nc",
+        "concept_id": "G3408276366-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T133402",
+      "harp": {
+        "stamp": "20240903T133402",
+        "name": "PACE_HARP2.20240903T133402.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238413-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T133402",
+        "name": "PACE_OCI.20240903T133402.L1C.V3.5km.nc",
+        "concept_id": "G3408276357-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T133902",
+      "harp": {
+        "stamp": "20240903T133902",
+        "name": "PACE_HARP2.20240903T133902.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238400-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T133902",
+        "name": "PACE_OCI.20240903T133902.L1C.V3.5km.nc",
+        "concept_id": "G3408276370-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T134402",
+      "harp": {
+        "stamp": "20240903T134402",
+        "name": "PACE_HARP2.20240903T134402.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238403-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T134402",
+        "name": "PACE_OCI.20240903T134402.L1C.V3.5km.nc",
+        "concept_id": "G3408276404-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T134902",
+      "harp": {
+        "stamp": "20240903T134902",
+        "name": "PACE_HARP2.20240903T134902.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238419-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T134902",
+        "name": "PACE_OCI.20240903T134902.L1C.V3.5km.nc",
+        "concept_id": "G3406526464-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T135402",
+      "harp": {
+        "stamp": "20240903T135402",
+        "name": "PACE_HARP2.20240903T135402.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238420-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T135402",
+        "name": "PACE_OCI.20240903T135402.L1C.V3.5km.nc",
+        "concept_id": "G3408276391-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T135902",
+      "harp": {
+        "stamp": "20240903T135902",
+        "name": "PACE_HARP2.20240903T135902.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238415-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T135902",
+        "name": "PACE_OCI.20240903T135902.L1C.V3.5km.nc",
+        "concept_id": "G3408276385-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T140402",
+      "harp": {
+        "stamp": "20240903T140402",
+        "name": "PACE_HARP2.20240903T140402.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238411-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T140402",
+        "name": "PACE_OCI.20240903T140402.L1C.V3.5km.nc",
+        "concept_id": "G3408276411-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T145719",
+      "harp": {
+        "stamp": "20240903T145719",
+        "name": "PACE_HARP2.20240903T145719.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238421-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T145719",
+        "name": "PACE_OCI.20240903T145719.L1C.V3.5km.nc",
+        "concept_id": "G3408276420-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T150219",
+      "harp": {
+        "stamp": "20240903T150219",
+        "name": "PACE_HARP2.20240903T150219.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238425-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T150219",
+        "name": "PACE_OCI.20240903T150219.L1C.V3.5km.nc",
+        "concept_id": "G3408276445-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T150719",
+      "harp": {
+        "stamp": "20240903T150719",
+        "name": "PACE_HARP2.20240903T150719.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238414-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T150719",
+        "name": "PACE_OCI.20240903T150719.L1C.V3.5km.nc",
+        "concept_id": "G3408276439-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T151219",
+      "harp": {
+        "stamp": "20240903T151219",
+        "name": "PACE_HARP2.20240903T151219.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238418-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T151219",
+        "name": "PACE_OCI.20240903T151219.L1C.V3.5km.nc",
+        "concept_id": "G3408276451-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T151719",
+      "harp": {
+        "stamp": "20240903T151719",
+        "name": "PACE_HARP2.20240903T151719.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238426-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T151719",
+        "name": "PACE_OCI.20240903T151719.L1C.V3.5km.nc",
+        "concept_id": "G3408276457-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T152219",
+      "harp": {
+        "stamp": "20240903T152219",
+        "name": "PACE_HARP2.20240903T152219.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238429-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T152219",
+        "name": "PACE_OCI.20240903T152219.L1C.V3.5km.nc",
+        "concept_id": "G3408276446-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T152719",
+      "harp": {
+        "stamp": "20240903T152719",
+        "name": "PACE_HARP2.20240903T152719.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238407-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T152719",
+        "name": "PACE_OCI.20240903T152719.L1C.V3.5km.nc",
+        "concept_id": "G3406526477-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T153219",
+      "harp": {
+        "stamp": "20240903T153219",
+        "name": "PACE_HARP2.20240903T153219.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238427-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T153219",
+        "name": "PACE_OCI.20240903T153219.L1C.V3.5km.nc",
+        "concept_id": "G3408276467-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T153719",
+      "harp": {
+        "stamp": "20240903T153719",
+        "name": "PACE_HARP2.20240903T153719.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238432-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T153719",
+        "name": "PACE_OCI.20240903T153719.L1C.V3.5km.nc",
+        "concept_id": "G3408276474-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T154219",
+      "harp": {
+        "stamp": "20240903T154219",
+        "name": "PACE_HARP2.20240903T154219.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238428-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T154219",
+        "name": "PACE_OCI.20240903T154219.L1C.V3.5km.nc",
+        "concept_id": "G3408276464-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T163537",
+      "harp": {
+        "stamp": "20240903T163537",
+        "name": "PACE_HARP2.20240903T163537.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238436-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T163537",
+        "name": "PACE_OCI.20240903T163537.L1C.V3.5km.nc",
+        "concept_id": "G3408276477-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T164037",
+      "harp": {
+        "stamp": "20240903T164037",
+        "name": "PACE_HARP2.20240903T164037.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238434-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T164037",
+        "name": "PACE_OCI.20240903T164037.L1C.V3.5km.nc",
+        "concept_id": "G3408276501-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T164537",
+      "harp": {
+        "stamp": "20240903T164537",
+        "name": "PACE_HARP2.20240903T164537.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238423-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T164537",
+        "name": "PACE_OCI.20240903T164537.L1C.V3.5km.nc",
+        "concept_id": "G3408276478-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T165037",
+      "harp": {
+        "stamp": "20240903T165037",
+        "name": "PACE_HARP2.20240903T165037.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238424-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T165037",
+        "name": "PACE_OCI.20240903T165037.L1C.V3.5km.nc",
+        "concept_id": "G3408276480-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T165537",
+      "harp": {
+        "stamp": "20240903T165537",
+        "name": "PACE_HARP2.20240903T165537.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238435-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T165537",
+        "name": "PACE_OCI.20240903T165537.L1C.V3.5km.nc",
+        "concept_id": "G3408276522-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T170037",
+      "harp": {
+        "stamp": "20240903T170037",
+        "name": "PACE_HARP2.20240903T170037.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238440-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T170037",
+        "name": "PACE_OCI.20240903T170037.L1C.V3.5km.nc",
+        "concept_id": "G3408276516-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T170537",
+      "harp": {
+        "stamp": "20240903T170537",
+        "name": "PACE_HARP2.20240903T170537.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238439-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T170537",
+        "name": "PACE_OCI.20240903T170537.L1C.V3.5km.nc",
+        "concept_id": "G3408276517-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T171037",
+      "harp": {
+        "stamp": "20240903T171037",
+        "name": "PACE_HARP2.20240903T171037.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238431-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T171037",
+        "name": "PACE_OCI.20240903T171037.L1C.V3.5km.nc",
+        "concept_id": "G3408276529-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T171537",
+      "harp": {
+        "stamp": "20240903T171537",
+        "name": "PACE_HARP2.20240903T171537.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238430-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T171537",
+        "name": "PACE_OCI.20240903T171537.L1C.V3.5km.nc",
+        "concept_id": "G3408276541-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T172037",
+      "harp": {
+        "stamp": "20240903T172037",
+        "name": "PACE_HARP2.20240903T172037.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238433-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T172037",
+        "name": "PACE_OCI.20240903T172037.L1C.V3.5km.nc",
+        "concept_id": "G3408276549-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T181354",
+      "harp": {
+        "stamp": "20240903T181354",
+        "name": "PACE_HARP2.20240903T181354.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238438-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T181354",
+        "name": "PACE_OCI.20240903T181354.L1C.V3.5km.nc",
+        "concept_id": "G3408276553-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T181854",
+      "harp": {
+        "stamp": "20240903T181854",
+        "name": "PACE_HARP2.20240903T181854.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238437-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T181854",
+        "name": "PACE_OCI.20240903T181854.L1C.V3.5km.nc",
+        "concept_id": "G3408272646-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T182354",
+      "harp": {
+        "stamp": "20240903T182354",
+        "name": "PACE_HARP2.20240903T182354.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238448-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T182354",
+        "name": "PACE_OCI.20240903T182354.L1C.V3.5km.nc",
+        "concept_id": "G3408276579-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T182854",
+      "harp": {
+        "stamp": "20240903T182854",
+        "name": "PACE_HARP2.20240903T182854.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238449-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T182854",
+        "name": "PACE_OCI.20240903T182854.L1C.V3.5km.nc",
+        "concept_id": "G3408276574-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T183354",
+      "harp": {
+        "stamp": "20240903T183354",
+        "name": "PACE_HARP2.20240903T183354.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238442-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T183354",
+        "name": "PACE_OCI.20240903T183354.L1C.V3.5km.nc",
+        "concept_id": "G3408276585-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T183854",
+      "harp": {
+        "stamp": "20240903T183854",
+        "name": "PACE_HARP2.20240903T183854.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238453-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T183854",
+        "name": "PACE_OCI.20240903T183854.L1C.V3.5km.nc",
+        "concept_id": "G3408276594-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T184354",
+      "harp": {
+        "stamp": "20240903T184354",
+        "name": "PACE_HARP2.20240903T184354.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238463-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T184354",
+        "name": "PACE_OCI.20240903T184354.L1C.V3.5km.nc",
+        "concept_id": "G3408276584-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T184854",
+      "harp": {
+        "stamp": "20240903T184854",
+        "name": "PACE_HARP2.20240903T184854.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238452-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T184854",
+        "name": "PACE_OCI.20240903T184854.L1C.V3.5km.nc",
+        "concept_id": "G3408278100-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T185354",
+      "harp": {
+        "stamp": "20240903T185354",
+        "name": "PACE_HARP2.20240903T185354.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238462-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T185354",
+        "name": "PACE_OCI.20240903T185354.L1C.V3.5km.nc",
+        "concept_id": "G3408276611-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T185854",
+      "harp": {
+        "stamp": "20240903T185854",
+        "name": "PACE_HARP2.20240903T185854.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238443-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T185854",
+        "name": "PACE_OCI.20240903T185854.L1C.V3.5km.nc",
+        "concept_id": "G3406526474-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T195212",
+      "harp": {
+        "stamp": "20240903T195212",
+        "name": "PACE_HARP2.20240903T195212.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238445-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T195212",
+        "name": "PACE_OCI.20240903T195212.L1C.V3.5km.nc",
+        "concept_id": "G3408276620-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T195712",
+      "harp": {
+        "stamp": "20240903T195712",
+        "name": "PACE_HARP2.20240903T195712.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238447-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T195712",
+        "name": "PACE_OCI.20240903T195712.L1C.V3.5km.nc",
+        "concept_id": "G3408276609-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T200212",
+      "harp": {
+        "stamp": "20240903T200212",
+        "name": "PACE_HARP2.20240903T200212.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238457-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T200212",
+        "name": "PACE_OCI.20240903T200212.L1C.V3.5km.nc",
+        "concept_id": "G3408276617-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T200712",
+      "harp": {
+        "stamp": "20240903T200712",
+        "name": "PACE_HARP2.20240903T200712.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238458-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T200712",
+        "name": "PACE_OCI.20240903T200712.L1C.V3.5km.nc",
+        "concept_id": "G3408276624-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T201212",
+      "harp": {
+        "stamp": "20240903T201212",
+        "name": "PACE_HARP2.20240903T201212.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238454-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T201212",
+        "name": "PACE_OCI.20240903T201212.L1C.V3.5km.nc",
+        "concept_id": "G3408276686-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T201712",
+      "harp": {
+        "stamp": "20240903T201712",
+        "name": "PACE_HARP2.20240903T201712.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238450-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T201712",
+        "name": "PACE_OCI.20240903T201712.L1C.V3.5km.nc",
+        "concept_id": "G3408276653-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T202212",
+      "harp": {
+        "stamp": "20240903T202212",
+        "name": "PACE_HARP2.20240903T202212.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238446-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T202212",
+        "name": "PACE_OCI.20240903T202212.L1C.V3.5km.nc",
+        "concept_id": "G3408278079-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T202712",
+      "harp": {
+        "stamp": "20240903T202712",
+        "name": "PACE_HARP2.20240903T202712.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238461-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T202712",
+        "name": "PACE_OCI.20240903T202712.L1C.V3.5km.nc",
+        "concept_id": "G3408278046-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T203212",
+      "harp": {
+        "stamp": "20240903T203212",
+        "name": "PACE_HARP2.20240903T203212.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238464-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T203212",
+        "name": "PACE_OCI.20240903T203212.L1C.V3.5km.nc",
+        "concept_id": "G3408278092-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T203712",
+      "harp": {
+        "stamp": "20240903T203712",
+        "name": "PACE_HARP2.20240903T203712.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238456-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T203712",
+        "name": "PACE_OCI.20240903T203712.L1C.V3.5km.nc",
+        "concept_id": "G3408276638-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T213030",
+      "harp": {
+        "stamp": "20240903T213030",
+        "name": "PACE_HARP2.20240903T213030.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238460-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T213030",
+        "name": "PACE_OCI.20240903T213030.L1C.V3.5km.nc",
+        "concept_id": "G3408276643-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T213530",
+      "harp": {
+        "stamp": "20240903T213530",
+        "name": "PACE_HARP2.20240903T213530.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238474-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T213530",
+        "name": "PACE_OCI.20240903T213530.L1C.V3.5km.nc",
+        "concept_id": "G3408276655-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T214030",
+      "harp": {
+        "stamp": "20240903T214030",
+        "name": "PACE_HARP2.20240903T214030.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238468-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T214030",
+        "name": "PACE_OCI.20240903T214030.L1C.V3.5km.nc",
+        "concept_id": "G3408276660-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T214530",
+      "harp": {
+        "stamp": "20240903T214530",
+        "name": "PACE_HARP2.20240903T214530.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238476-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T214530",
+        "name": "PACE_OCI.20240903T214530.L1C.V3.5km.nc",
+        "concept_id": "G3408278058-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T215030",
+      "harp": {
+        "stamp": "20240903T215030",
+        "name": "PACE_HARP2.20240903T215030.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238481-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T215030",
+        "name": "PACE_OCI.20240903T215030.L1C.V3.5km.nc",
+        "concept_id": "G3406526483-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T215530",
+      "harp": {
+        "stamp": "20240903T215530",
+        "name": "PACE_HARP2.20240903T215530.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238469-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T215530",
+        "name": "PACE_OCI.20240903T215530.L1C.V3.5km.nc",
+        "concept_id": "G3408276732-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T220030",
+      "harp": {
+        "stamp": "20240903T220030",
+        "name": "PACE_HARP2.20240903T220030.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238480-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T220030",
+        "name": "PACE_OCI.20240903T220030.L1C.V3.5km.nc",
+        "concept_id": "G3408276637-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T220530",
+      "harp": {
+        "stamp": "20240903T220530",
+        "name": "PACE_HARP2.20240903T220530.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238471-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T220530",
+        "name": "PACE_OCI.20240903T220530.L1C.V3.5km.nc",
+        "concept_id": "G3408276656-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T221030",
+      "harp": {
+        "stamp": "20240903T221030",
+        "name": "PACE_HARP2.20240903T221030.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238479-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T221030",
+        "name": "PACE_OCI.20240903T221030.L1C.V3.5km.nc",
+        "concept_id": "G3408276692-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T221530",
+      "harp": {
+        "stamp": "20240903T221530",
+        "name": "PACE_HARP2.20240903T221530.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238470-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T221530",
+        "name": "PACE_OCI.20240903T221530.L1C.V3.5km.nc",
+        "concept_id": "G3408276707-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T230847",
+      "harp": {
+        "stamp": "20240903T230847",
+        "name": "PACE_HARP2.20240903T230847.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238485-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T230847",
+        "name": "PACE_OCI.20240903T230847.L1C.V3.5km.nc",
+        "concept_id": "G3408276724-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T231347",
+      "harp": {
+        "stamp": "20240903T231347",
+        "name": "PACE_HARP2.20240903T231347.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238501-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T231347",
+        "name": "PACE_OCI.20240903T231347.L1C.V3.5km.nc",
+        "concept_id": "G3408276708-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T231847",
+      "harp": {
+        "stamp": "20240903T231847",
+        "name": "PACE_HARP2.20240903T231847.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238500-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T231847",
+        "name": "PACE_OCI.20240903T231847.L1C.V3.5km.nc",
+        "concept_id": "G3408276727-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T232347",
+      "harp": {
+        "stamp": "20240903T232347",
+        "name": "PACE_HARP2.20240903T232347.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238483-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T232347",
+        "name": "PACE_OCI.20240903T232347.L1C.V3.5km.nc",
+        "concept_id": "G3406526492-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T232847",
+      "harp": {
+        "stamp": "20240903T232847",
+        "name": "PACE_HARP2.20240903T232847.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238477-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T232847",
+        "name": "PACE_OCI.20240903T232847.L1C.V3.5km.nc",
+        "concept_id": "G3408276709-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T233347",
+      "harp": {
+        "stamp": "20240903T233347",
+        "name": "PACE_HARP2.20240903T233347.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238493-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T233347",
+        "name": "PACE_OCI.20240903T233347.L1C.V3.5km.nc",
+        "concept_id": "G3408276715-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T233847",
+      "harp": {
+        "stamp": "20240903T233847",
+        "name": "PACE_HARP2.20240903T233847.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238484-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T233847",
+        "name": "PACE_OCI.20240903T233847.L1C.V3.5km.nc",
+        "concept_id": "G3408276730-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T234347",
+      "harp": {
+        "stamp": "20240903T234347",
+        "name": "PACE_HARP2.20240903T234347.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238487-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T234347",
+        "name": "PACE_OCI.20240903T234347.L1C.V3.5km.nc",
+        "concept_id": "G3408276717-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T234847",
+      "harp": {
+        "stamp": "20240903T234847",
+        "name": "PACE_HARP2.20240903T234847.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238489-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T234847",
+        "name": "PACE_OCI.20240903T234847.L1C.V3.5km.nc",
+        "concept_id": "G3408276753-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240903T235347",
+      "harp": {
+        "stamp": "20240903T235347",
+        "name": "PACE_HARP2.20240903T235347.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238497-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240903T235347",
+        "name": "PACE_OCI.20240903T235347.L1C.V3.5km.nc",
+        "concept_id": "G3408276737-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T004705",
+      "harp": {
+        "stamp": "20240904T004705",
+        "name": "PACE_HARP2.20240904T004705.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238626-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T004705",
+        "name": "PACE_OCI.20240904T004705.L1C.V3.5km.nc",
+        "concept_id": "G3408276771-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T005205",
+      "harp": {
+        "stamp": "20240904T005205",
+        "name": "PACE_HARP2.20240904T005205.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238503-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T005205",
+        "name": "PACE_OCI.20240904T005205.L1C.V3.5km.nc",
+        "concept_id": "G3408276740-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T005705",
+      "harp": {
+        "stamp": "20240904T005705",
+        "name": "PACE_HARP2.20240904T005705.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238502-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T005705",
+        "name": "PACE_OCI.20240904T005705.L1C.V3.5km.nc",
+        "concept_id": "G3408276745-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T010205",
+      "harp": {
+        "stamp": "20240904T010205",
+        "name": "PACE_HARP2.20240904T010205.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238498-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T010205",
+        "name": "PACE_OCI.20240904T010205.L1C.V3.5km.nc",
+        "concept_id": "G3408276762-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T010705",
+      "harp": {
+        "stamp": "20240904T010705",
+        "name": "PACE_HARP2.20240904T010705.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238486-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T010705",
+        "name": "PACE_OCI.20240904T010705.L1C.V3.5km.nc",
+        "concept_id": "G3408276748-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T011205",
+      "harp": {
+        "stamp": "20240904T011205",
+        "name": "PACE_HARP2.20240904T011205.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238491-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T011205",
+        "name": "PACE_OCI.20240904T011205.L1C.V3.5km.nc",
+        "concept_id": "G3408276765-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T011705",
+      "harp": {
+        "stamp": "20240904T011705",
+        "name": "PACE_HARP2.20240904T011705.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238492-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T011705",
+        "name": "PACE_OCI.20240904T011705.L1C.V3.5km.nc",
+        "concept_id": "G3408278051-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T012205",
+      "harp": {
+        "stamp": "20240904T012205",
+        "name": "PACE_HARP2.20240904T012205.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238519-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T012205",
+        "name": "PACE_OCI.20240904T012205.L1C.V3.5km.nc",
+        "concept_id": "G3408276783-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T012705",
+      "harp": {
+        "stamp": "20240904T012705",
+        "name": "PACE_HARP2.20240904T012705.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238523-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T012705",
+        "name": "PACE_OCI.20240904T012705.L1C.V3.5km.nc",
+        "concept_id": "G3408276776-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T013205",
+      "harp": {
+        "stamp": "20240904T013205",
+        "name": "PACE_HARP2.20240904T013205.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238506-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T013205",
+        "name": "PACE_OCI.20240904T013205.L1C.V3.5km.nc",
+        "concept_id": "G3406526487-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T022522",
+      "harp": {
+        "stamp": "20240904T022522",
+        "name": "PACE_HARP2.20240904T022522.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238514-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T022522",
+        "name": "PACE_OCI.20240904T022522.L1C.V3.5km.nc",
+        "concept_id": "G3408276817-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T023022",
+      "harp": {
+        "stamp": "20240904T023022",
+        "name": "PACE_HARP2.20240904T023022.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238518-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T023022",
+        "name": "PACE_OCI.20240904T023022.L1C.V3.5km.nc",
+        "concept_id": "G3408276810-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T023522",
+      "harp": {
+        "stamp": "20240904T023522",
+        "name": "PACE_HARP2.20240904T023522.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238522-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T023522",
+        "name": "PACE_OCI.20240904T023522.L1C.V3.5km.nc",
+        "concept_id": "G3408276778-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T024022",
+      "harp": {
+        "stamp": "20240904T024022",
+        "name": "PACE_HARP2.20240904T024022.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238536-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T024022",
+        "name": "PACE_OCI.20240904T024022.L1C.V3.5km.nc",
+        "concept_id": "G3408276790-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T024522",
+      "harp": {
+        "stamp": "20240904T024522",
+        "name": "PACE_HARP2.20240904T024522.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238521-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T024522",
+        "name": "PACE_OCI.20240904T024522.L1C.V3.5km.nc",
+        "concept_id": "G3408276846-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T025022",
+      "harp": {
+        "stamp": "20240904T025022",
+        "name": "PACE_HARP2.20240904T025022.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238526-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T025022",
+        "name": "PACE_OCI.20240904T025022.L1C.V3.5km.nc",
+        "concept_id": "G3408276843-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T025522",
+      "harp": {
+        "stamp": "20240904T025522",
+        "name": "PACE_HARP2.20240904T025522.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238505-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T025522",
+        "name": "PACE_OCI.20240904T025522.L1C.V3.5km.nc",
+        "concept_id": "G3408276808-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T030022",
+      "harp": {
+        "stamp": "20240904T030022",
+        "name": "PACE_HARP2.20240904T030022.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238525-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T030022",
+        "name": "PACE_OCI.20240904T030022.L1C.V3.5km.nc",
+        "concept_id": "G3408276824-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T030522",
+      "harp": {
+        "stamp": "20240904T030522",
+        "name": "PACE_HARP2.20240904T030522.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238527-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T030522",
+        "name": "PACE_OCI.20240904T030522.L1C.V3.5km.nc",
+        "concept_id": "G3408278052-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T031022",
+      "harp": {
+        "stamp": "20240904T031022",
+        "name": "PACE_HARP2.20240904T031022.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238512-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T031022",
+        "name": "PACE_OCI.20240904T031022.L1C.V3.5km.nc",
+        "concept_id": "G3408278012-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T040340",
+      "harp": {
+        "stamp": "20240904T040340",
+        "name": "PACE_HARP2.20240904T040340.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238516-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T040340",
+        "name": "PACE_OCI.20240904T040340.L1C.V3.5km.nc",
+        "concept_id": "G3408276838-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T040840",
+      "harp": {
+        "stamp": "20240904T040840",
+        "name": "PACE_HARP2.20240904T040840.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238532-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T040840",
+        "name": "PACE_OCI.20240904T040840.L1C.V3.5km.nc",
+        "concept_id": "G3408276868-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T041340",
+      "harp": {
+        "stamp": "20240904T041340",
+        "name": "PACE_HARP2.20240904T041340.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238533-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T041340",
+        "name": "PACE_OCI.20240904T041340.L1C.V3.5km.nc",
+        "concept_id": "G3408276911-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T041840",
+      "harp": {
+        "stamp": "20240904T041840",
+        "name": "PACE_HARP2.20240904T041840.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238531-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T041840",
+        "name": "PACE_OCI.20240904T041840.L1C.V3.5km.nc",
+        "concept_id": "G3408276915-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T042340",
+      "harp": {
+        "stamp": "20240904T042340",
+        "name": "PACE_HARP2.20240904T042340.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238535-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T042340",
+        "name": "PACE_OCI.20240904T042340.L1C.V3.5km.nc",
+        "concept_id": "G3408276962-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T042840",
+      "harp": {
+        "stamp": "20240904T042840",
+        "name": "PACE_HARP2.20240904T042840.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238546-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T042840",
+        "name": "PACE_OCI.20240904T042840.L1C.V3.5km.nc",
+        "concept_id": "G3408276951-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T043340",
+      "harp": {
+        "stamp": "20240904T043340",
+        "name": "PACE_HARP2.20240904T043340.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238528-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T043340",
+        "name": "PACE_OCI.20240904T043340.L1C.V3.5km.nc",
+        "concept_id": "G3408276960-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T043840",
+      "harp": {
+        "stamp": "20240904T043840",
+        "name": "PACE_HARP2.20240904T043840.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238547-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T043840",
+        "name": "PACE_OCI.20240904T043840.L1C.V3.5km.nc",
+        "concept_id": "G3408277055-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T044340",
+      "harp": {
+        "stamp": "20240904T044340",
+        "name": "PACE_HARP2.20240904T044340.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238538-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T044340",
+        "name": "PACE_OCI.20240904T044340.L1C.V3.5km.nc",
+        "concept_id": "G3408277108-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T044840",
+      "harp": {
+        "stamp": "20240904T044840",
+        "name": "PACE_HARP2.20240904T044840.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238537-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T044840",
+        "name": "PACE_OCI.20240904T044840.L1C.V3.5km.nc",
+        "concept_id": "G3408277070-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T054157",
+      "harp": {
+        "stamp": "20240904T054157",
+        "name": "PACE_HARP2.20240904T054157.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238539-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T054157",
+        "name": "PACE_OCI.20240904T054157.L1C.V3.5km.nc",
+        "concept_id": "G3408277078-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T054657",
+      "harp": {
+        "stamp": "20240904T054657",
+        "name": "PACE_HARP2.20240904T054657.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238543-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T054657",
+        "name": "PACE_OCI.20240904T054657.L1C.V3.5km.nc",
+        "concept_id": "G3408276998-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T055157",
+      "harp": {
+        "stamp": "20240904T055157",
+        "name": "PACE_HARP2.20240904T055157.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238556-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T055157",
+        "name": "PACE_OCI.20240904T055157.L1C.V3.5km.nc",
+        "concept_id": "G3408277060-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T055657",
+      "harp": {
+        "stamp": "20240904T055657",
+        "name": "PACE_HARP2.20240904T055657.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238551-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T055657",
+        "name": "PACE_OCI.20240904T055657.L1C.V3.5km.nc",
+        "concept_id": "G3408277103-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T060157",
+      "harp": {
+        "stamp": "20240904T060157",
+        "name": "PACE_HARP2.20240904T060157.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238587-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T060157",
+        "name": "PACE_OCI.20240904T060157.L1C.V3.5km.nc",
+        "concept_id": "G3408277107-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T060657",
+      "harp": {
+        "stamp": "20240904T060657",
+        "name": "PACE_HARP2.20240904T060657.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238563-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T060657",
+        "name": "PACE_OCI.20240904T060657.L1C.V3.5km.nc",
+        "concept_id": "G3408277052-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T061157",
+      "harp": {
+        "stamp": "20240904T061157",
+        "name": "PACE_HARP2.20240904T061157.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238555-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T061157",
+        "name": "PACE_OCI.20240904T061157.L1C.V3.5km.nc",
+        "concept_id": "G3408277112-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T061657",
+      "harp": {
+        "stamp": "20240904T061657",
+        "name": "PACE_HARP2.20240904T061657.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238579-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T061657",
+        "name": "PACE_OCI.20240904T061657.L1C.V3.5km.nc",
+        "concept_id": "G3408277165-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T062157",
+      "harp": {
+        "stamp": "20240904T062157",
+        "name": "PACE_HARP2.20240904T062157.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238583-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T062157",
+        "name": "PACE_OCI.20240904T062157.L1C.V3.5km.nc",
+        "concept_id": "G3408277145-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T072015",
+      "harp": {
+        "stamp": "20240904T072015",
+        "name": "PACE_HARP2.20240904T072015.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238577-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T072015",
+        "name": "PACE_OCI.20240904T072015.L1C.V3.5km.nc",
+        "concept_id": "G3408277176-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T072515",
+      "harp": {
+        "stamp": "20240904T072515",
+        "name": "PACE_HARP2.20240904T072515.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238571-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T072515",
+        "name": "PACE_OCI.20240904T072515.L1C.V3.5km.nc",
+        "concept_id": "G3408277140-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T073015",
+      "harp": {
+        "stamp": "20240904T073015",
+        "name": "PACE_HARP2.20240904T073015.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238610-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T073015",
+        "name": "PACE_OCI.20240904T073015.L1C.V3.5km.nc",
+        "concept_id": "G3408277181-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T073515",
+      "harp": {
+        "stamp": "20240904T073515",
+        "name": "PACE_HARP2.20240904T073515.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238559-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T073515",
+        "name": "PACE_OCI.20240904T073515.L1C.V3.5km.nc",
+        "concept_id": "G3408277149-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T074015",
+      "harp": {
+        "stamp": "20240904T074015",
+        "name": "PACE_HARP2.20240904T074015.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238590-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T074015",
+        "name": "PACE_OCI.20240904T074015.L1C.V3.5km.nc",
+        "concept_id": "G3408277198-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T074515",
+      "harp": {
+        "stamp": "20240904T074515",
+        "name": "PACE_HARP2.20240904T074515.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238580-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T074515",
+        "name": "PACE_OCI.20240904T074515.L1C.V3.5km.nc",
+        "concept_id": "G3408277205-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T075015",
+      "harp": {
+        "stamp": "20240904T075015",
+        "name": "PACE_HARP2.20240904T075015.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238576-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T075015",
+        "name": "PACE_OCI.20240904T075015.L1C.V3.5km.nc",
+        "concept_id": "G3408277184-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T075515",
+      "harp": {
+        "stamp": "20240904T075515",
+        "name": "PACE_HARP2.20240904T075515.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238594-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T075515",
+        "name": "PACE_OCI.20240904T075515.L1C.V3.5km.nc",
+        "concept_id": "G3408277222-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T080015",
+      "harp": {
+        "stamp": "20240904T080015",
+        "name": "PACE_HARP2.20240904T080015.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238585-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T080015",
+        "name": "PACE_OCI.20240904T080015.L1C.V3.5km.nc",
+        "concept_id": "G3408277190-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T080515",
+      "harp": {
+        "stamp": "20240904T080515",
+        "name": "PACE_HARP2.20240904T080515.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238562-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T080515",
+        "name": "PACE_OCI.20240904T080515.L1C.V3.5km.nc",
+        "concept_id": "G3408277191-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T085832",
+      "harp": {
+        "stamp": "20240904T085832",
+        "name": "PACE_HARP2.20240904T085832.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238570-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T085832",
+        "name": "PACE_OCI.20240904T085832.L1C.V3.5km.nc",
+        "concept_id": "G3408277214-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T090332",
+      "harp": {
+        "stamp": "20240904T090332",
+        "name": "PACE_HARP2.20240904T090332.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238598-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T090332",
+        "name": "PACE_OCI.20240904T090332.L1C.V3.5km.nc",
+        "concept_id": "G3408277232-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T090832",
+      "harp": {
+        "stamp": "20240904T090832",
+        "name": "PACE_HARP2.20240904T090832.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238621-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T090832",
+        "name": "PACE_OCI.20240904T090832.L1C.V3.5km.nc",
+        "concept_id": "G3408277208-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T091332",
+      "harp": {
+        "stamp": "20240904T091332",
+        "name": "PACE_HARP2.20240904T091332.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238603-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T091332",
+        "name": "PACE_OCI.20240904T091332.L1C.V3.5km.nc",
+        "concept_id": "G3408277234-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T091832",
+      "harp": {
+        "stamp": "20240904T091832",
+        "name": "PACE_HARP2.20240904T091832.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238588-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T091832",
+        "name": "PACE_OCI.20240904T091832.L1C.V3.5km.nc",
+        "concept_id": "G3408277229-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T092332",
+      "harp": {
+        "stamp": "20240904T092332",
+        "name": "PACE_HARP2.20240904T092332.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238607-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T092332",
+        "name": "PACE_OCI.20240904T092332.L1C.V3.5km.nc",
+        "concept_id": "G3408277237-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T092832",
+      "harp": {
+        "stamp": "20240904T092832",
+        "name": "PACE_HARP2.20240904T092832.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238620-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T092832",
+        "name": "PACE_OCI.20240904T092832.L1C.V3.5km.nc",
+        "concept_id": "G3408277242-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T093332",
+      "harp": {
+        "stamp": "20240904T093332",
+        "name": "PACE_HARP2.20240904T093332.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238605-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T093332",
+        "name": "PACE_OCI.20240904T093332.L1C.V3.5km.nc",
+        "concept_id": "G3408277243-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T093832",
+      "harp": {
+        "stamp": "20240904T093832",
+        "name": "PACE_HARP2.20240904T093832.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238584-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T093832",
+        "name": "PACE_OCI.20240904T093832.L1C.V3.5km.nc",
+        "concept_id": "G3408277264-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T094332",
+      "harp": {
+        "stamp": "20240904T094332",
+        "name": "PACE_HARP2.20240904T094332.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238602-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T094332",
+        "name": "PACE_OCI.20240904T094332.L1C.V3.5km.nc",
+        "concept_id": "G3408277256-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T103650",
+      "harp": {
+        "stamp": "20240904T103650",
+        "name": "PACE_HARP2.20240904T103650.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238599-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T103650",
+        "name": "PACE_OCI.20240904T103650.L1C.V3.5km.nc",
+        "concept_id": "G3408277758-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T104150",
+      "harp": {
+        "stamp": "20240904T104150",
+        "name": "PACE_HARP2.20240904T104150.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238609-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T104150",
+        "name": "PACE_OCI.20240904T104150.L1C.V3.5km.nc",
+        "concept_id": "G3408277259-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T104650",
+      "harp": {
+        "stamp": "20240904T104650",
+        "name": "PACE_HARP2.20240904T104650.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238608-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T104650",
+        "name": "PACE_OCI.20240904T104650.L1C.V3.5km.nc",
+        "concept_id": "G3408277269-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T105150",
+      "harp": {
+        "stamp": "20240904T105150",
+        "name": "PACE_HARP2.20240904T105150.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238606-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T105150",
+        "name": "PACE_OCI.20240904T105150.L1C.V3.5km.nc",
+        "concept_id": "G3408277276-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T105650",
+      "harp": {
+        "stamp": "20240904T105650",
+        "name": "PACE_HARP2.20240904T105650.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238611-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T105650",
+        "name": "PACE_OCI.20240904T105650.L1C.V3.5km.nc",
+        "concept_id": "G3408277272-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T110150",
+      "harp": {
+        "stamp": "20240904T110150",
+        "name": "PACE_HARP2.20240904T110150.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238614-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T110150",
+        "name": "PACE_OCI.20240904T110150.L1C.V3.5km.nc",
+        "concept_id": "G3408277289-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T110650",
+      "harp": {
+        "stamp": "20240904T110650",
+        "name": "PACE_HARP2.20240904T110650.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238813-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T110650",
+        "name": "PACE_OCI.20240904T110650.L1C.V3.5km.nc",
+        "concept_id": "G3408277275-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T111150",
+      "harp": {
+        "stamp": "20240904T111150",
+        "name": "PACE_HARP2.20240904T111150.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238619-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T111150",
+        "name": "PACE_OCI.20240904T111150.L1C.V3.5km.nc",
+        "concept_id": "G3408277286-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T111650",
+      "harp": {
+        "stamp": "20240904T111650",
+        "name": "PACE_HARP2.20240904T111650.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238627-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T111650",
+        "name": "PACE_OCI.20240904T111650.L1C.V3.5km.nc",
+        "concept_id": "G3408277282-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T112150",
+      "harp": {
+        "stamp": "20240904T112150",
+        "name": "PACE_HARP2.20240904T112150.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238604-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T112150",
+        "name": "PACE_OCI.20240904T112150.L1C.V3.5km.nc",
+        "concept_id": "G3408277305-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T121508",
+      "harp": {
+        "stamp": "20240904T121508",
+        "name": "PACE_HARP2.20240904T121508.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238622-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T121508",
+        "name": "PACE_OCI.20240904T121508.L1C.V3.5km.nc",
+        "concept_id": "G3408277304-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T122008",
+      "harp": {
+        "stamp": "20240904T122008",
+        "name": "PACE_HARP2.20240904T122008.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238645-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T122008",
+        "name": "PACE_OCI.20240904T122008.L1C.V3.5km.nc",
+        "concept_id": "G3408277303-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T122508",
+      "harp": {
+        "stamp": "20240904T122508",
+        "name": "PACE_HARP2.20240904T122508.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238635-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T122508",
+        "name": "PACE_OCI.20240904T122508.L1C.V3.5km.nc",
+        "concept_id": "G3408277306-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T123008",
+      "harp": {
+        "stamp": "20240904T123008",
+        "name": "PACE_HARP2.20240904T123008.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238623-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T123008",
+        "name": "PACE_OCI.20240904T123008.L1C.V3.5km.nc",
+        "concept_id": "G3408277320-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T123508",
+      "harp": {
+        "stamp": "20240904T123508",
+        "name": "PACE_HARP2.20240904T123508.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238643-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T123508",
+        "name": "PACE_OCI.20240904T123508.L1C.V3.5km.nc",
+        "concept_id": "G3408277325-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T124008",
+      "harp": {
+        "stamp": "20240904T124008",
+        "name": "PACE_HARP2.20240904T124008.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238632-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T124008",
+        "name": "PACE_OCI.20240904T124008.L1C.V3.5km.nc",
+        "concept_id": "G3408277319-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T124508",
+      "harp": {
+        "stamp": "20240904T124508",
+        "name": "PACE_HARP2.20240904T124508.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238640-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T124508",
+        "name": "PACE_OCI.20240904T124508.L1C.V3.5km.nc",
+        "concept_id": "G3408277327-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T125008",
+      "harp": {
+        "stamp": "20240904T125008",
+        "name": "PACE_HARP2.20240904T125008.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238650-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T125008",
+        "name": "PACE_OCI.20240904T125008.L1C.V3.5km.nc",
+        "concept_id": "G3408277314-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T125508",
+      "harp": {
+        "stamp": "20240904T125508",
+        "name": "PACE_HARP2.20240904T125508.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238647-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T125508",
+        "name": "PACE_OCI.20240904T125508.L1C.V3.5km.nc",
+        "concept_id": "G3408277338-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T130008",
+      "harp": {
+        "stamp": "20240904T130008",
+        "name": "PACE_HARP2.20240904T130008.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238641-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T130008",
+        "name": "PACE_OCI.20240904T130008.L1C.V3.5km.nc",
+        "concept_id": "G3408277345-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T135325",
+      "harp": {
+        "stamp": "20240904T135325",
+        "name": "PACE_HARP2.20240904T135325.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238639-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T135325",
+        "name": "PACE_OCI.20240904T135325.L1C.V3.5km.nc",
+        "concept_id": "G3408277335-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T135825",
+      "harp": {
+        "stamp": "20240904T135825",
+        "name": "PACE_HARP2.20240904T135825.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238651-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T135825",
+        "name": "PACE_OCI.20240904T135825.L1C.V3.5km.nc",
+        "concept_id": "G3408277344-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T140325",
+      "harp": {
+        "stamp": "20240904T140325",
+        "name": "PACE_HARP2.20240904T140325.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238667-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T140325",
+        "name": "PACE_OCI.20240904T140325.L1C.V3.5km.nc",
+        "concept_id": "G3408277334-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T140825",
+      "harp": {
+        "stamp": "20240904T140825",
+        "name": "PACE_HARP2.20240904T140825.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238656-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T140825",
+        "name": "PACE_OCI.20240904T140825.L1C.V3.5km.nc",
+        "concept_id": "G3408277346-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T141325",
+      "harp": {
+        "stamp": "20240904T141325",
+        "name": "PACE_HARP2.20240904T141325.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238664-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T141325",
+        "name": "PACE_OCI.20240904T141325.L1C.V3.5km.nc",
+        "concept_id": "G3408277354-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T141825",
+      "harp": {
+        "stamp": "20240904T141825",
+        "name": "PACE_HARP2.20240904T141825.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238658-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T141825",
+        "name": "PACE_OCI.20240904T141825.L1C.V3.5km.nc",
+        "concept_id": "G3408277412-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T142325",
+      "harp": {
+        "stamp": "20240904T142325",
+        "name": "PACE_HARP2.20240904T142325.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238680-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T142325",
+        "name": "PACE_OCI.20240904T142325.L1C.V3.5km.nc",
+        "concept_id": "G3408277356-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T142825",
+      "harp": {
+        "stamp": "20240904T142825",
+        "name": "PACE_HARP2.20240904T142825.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238663-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T142825",
+        "name": "PACE_OCI.20240904T142825.L1C.V3.5km.nc",
+        "concept_id": "G3406526503-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T143325",
+      "harp": {
+        "stamp": "20240904T143325",
+        "name": "PACE_HARP2.20240904T143325.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238683-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T143325",
+        "name": "PACE_OCI.20240904T143325.L1C.V3.5km.nc",
+        "concept_id": "G3408277372-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T143825",
+      "harp": {
+        "stamp": "20240904T143825",
+        "name": "PACE_HARP2.20240904T143825.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238668-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T143825",
+        "name": "PACE_OCI.20240904T143825.L1C.V3.5km.nc",
+        "concept_id": "G3408277357-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T153143",
+      "harp": {
+        "stamp": "20240904T153143",
+        "name": "PACE_HARP2.20240904T153143.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238679-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T153143",
+        "name": "PACE_OCI.20240904T153143.L1C.V3.5km.nc",
+        "concept_id": "G3408277361-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T153643",
+      "harp": {
+        "stamp": "20240904T153643",
+        "name": "PACE_HARP2.20240904T153643.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238708-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T153643",
+        "name": "PACE_OCI.20240904T153643.L1C.V3.5km.nc",
+        "concept_id": "G3408277369-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T154143",
+      "harp": {
+        "stamp": "20240904T154143",
+        "name": "PACE_HARP2.20240904T154143.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238686-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T154143",
+        "name": "PACE_OCI.20240904T154143.L1C.V3.5km.nc",
+        "concept_id": "G3408277378-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T154643",
+      "harp": {
+        "stamp": "20240904T154643",
+        "name": "PACE_HARP2.20240904T154643.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238700-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T154643",
+        "name": "PACE_OCI.20240904T154643.L1C.V3.5km.nc",
+        "concept_id": "G3408277405-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T155143",
+      "harp": {
+        "stamp": "20240904T155143",
+        "name": "PACE_HARP2.20240904T155143.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238669-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T155143",
+        "name": "PACE_OCI.20240904T155143.L1C.V3.5km.nc",
+        "concept_id": "G3408277389-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T155643",
+      "harp": {
+        "stamp": "20240904T155643",
+        "name": "PACE_HARP2.20240904T155643.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238698-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T155643",
+        "name": "PACE_OCI.20240904T155643.L1C.V3.5km.nc",
+        "concept_id": "G3408277407-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T160143",
+      "harp": {
+        "stamp": "20240904T160143",
+        "name": "PACE_HARP2.20240904T160143.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238681-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T160143",
+        "name": "PACE_OCI.20240904T160143.L1C.V3.5km.nc",
+        "concept_id": "G3408277397-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T160643",
+      "harp": {
+        "stamp": "20240904T160643",
+        "name": "PACE_HARP2.20240904T160643.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238692-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T160643",
+        "name": "PACE_OCI.20240904T160643.L1C.V3.5km.nc",
+        "concept_id": "G3408277402-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T161143",
+      "harp": {
+        "stamp": "20240904T161143",
+        "name": "PACE_HARP2.20240904T161143.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238685-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T161143",
+        "name": "PACE_OCI.20240904T161143.L1C.V3.5km.nc",
+        "concept_id": "G3408277413-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T161643",
+      "harp": {
+        "stamp": "20240904T161643",
+        "name": "PACE_HARP2.20240904T161643.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238687-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T161643",
+        "name": "PACE_OCI.20240904T161643.L1C.V3.5km.nc",
+        "concept_id": "G3408277418-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T171000",
+      "harp": {
+        "stamp": "20240904T171000",
+        "name": "PACE_HARP2.20240904T171000.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238695-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T171000",
+        "name": "PACE_OCI.20240904T171000.L1C.V3.5km.nc",
+        "concept_id": "G3408277414-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T171500",
+      "harp": {
+        "stamp": "20240904T171500",
+        "name": "PACE_HARP2.20240904T171500.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238684-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T171500",
+        "name": "PACE_OCI.20240904T171500.L1C.V3.5km.nc",
+        "concept_id": "G3408277426-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T172000",
+      "harp": {
+        "stamp": "20240904T172000",
+        "name": "PACE_HARP2.20240904T172000.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238703-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T172000",
+        "name": "PACE_OCI.20240904T172000.L1C.V3.5km.nc",
+        "concept_id": "G3408277429-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T172500",
+      "harp": {
+        "stamp": "20240904T172500",
+        "name": "PACE_HARP2.20240904T172500.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238691-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T172500",
+        "name": "PACE_OCI.20240904T172500.L1C.V3.5km.nc",
+        "concept_id": "G3408277514-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T173000",
+      "harp": {
+        "stamp": "20240904T173000",
+        "name": "PACE_HARP2.20240904T173000.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238723-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T173000",
+        "name": "PACE_OCI.20240904T173000.L1C.V3.5km.nc",
+        "concept_id": "G3408278016-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T173500",
+      "harp": {
+        "stamp": "20240904T173500",
+        "name": "PACE_HARP2.20240904T173500.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238718-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T173500",
+        "name": "PACE_OCI.20240904T173500.L1C.V3.5km.nc",
+        "concept_id": "G3408278048-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T174000",
+      "harp": {
+        "stamp": "20240904T174000",
+        "name": "PACE_HARP2.20240904T174000.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238701-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T174000",
+        "name": "PACE_OCI.20240904T174000.L1C.V3.5km.nc",
+        "concept_id": "G3408278081-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T174500",
+      "harp": {
+        "stamp": "20240904T174500",
+        "name": "PACE_HARP2.20240904T174500.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238736-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T174500",
+        "name": "PACE_OCI.20240904T174500.L1C.V3.5km.nc",
+        "concept_id": "G3408278126-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T175000",
+      "harp": {
+        "stamp": "20240904T175000",
+        "name": "PACE_HARP2.20240904T175000.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238728-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T175000",
+        "name": "PACE_OCI.20240904T175000.L1C.V3.5km.nc",
+        "concept_id": "G3408277437-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T175500",
+      "harp": {
+        "stamp": "20240904T175500",
+        "name": "PACE_HARP2.20240904T175500.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238715-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T175500",
+        "name": "PACE_OCI.20240904T175500.L1C.V3.5km.nc",
+        "concept_id": "G3408277435-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T184818",
+      "harp": {
+        "stamp": "20240904T184818",
+        "name": "PACE_HARP2.20240904T184818.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238710-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T184818",
+        "name": "PACE_OCI.20240904T184818.L1C.V3.5km.nc",
+        "concept_id": "G3408277454-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T185318",
+      "harp": {
+        "stamp": "20240904T185318",
+        "name": "PACE_HARP2.20240904T185318.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238704-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T185318",
+        "name": "PACE_OCI.20240904T185318.L1C.V3.5km.nc",
+        "concept_id": "G3408277438-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T185818",
+      "harp": {
+        "stamp": "20240904T185818",
+        "name": "PACE_HARP2.20240904T185818.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238739-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T185818",
+        "name": "PACE_OCI.20240904T185818.L1C.V3.5km.nc",
+        "concept_id": "G3408277456-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T190318",
+      "harp": {
+        "stamp": "20240904T190318",
+        "name": "PACE_HARP2.20240904T190318.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238719-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T190318",
+        "name": "PACE_OCI.20240904T190318.L1C.V3.5km.nc",
+        "concept_id": "G3408277444-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T190818",
+      "harp": {
+        "stamp": "20240904T190818",
+        "name": "PACE_HARP2.20240904T190818.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238716-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T190818",
+        "name": "PACE_OCI.20240904T190818.L1C.V3.5km.nc",
+        "concept_id": "G3408277461-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T191318",
+      "harp": {
+        "stamp": "20240904T191318",
+        "name": "PACE_HARP2.20240904T191318.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238722-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T191318",
+        "name": "PACE_OCI.20240904T191318.L1C.V3.5km.nc",
+        "concept_id": "G3408278121-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T191818",
+      "harp": {
+        "stamp": "20240904T191818",
+        "name": "PACE_HARP2.20240904T191818.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238714-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T191818",
+        "name": "PACE_OCI.20240904T191818.L1C.V3.5km.nc",
+        "concept_id": "G3408277459-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T192318",
+      "harp": {
+        "stamp": "20240904T192318",
+        "name": "PACE_HARP2.20240904T192318.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238737-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T192318",
+        "name": "PACE_OCI.20240904T192318.L1C.V3.5km.nc",
+        "concept_id": "G3408277466-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T192818",
+      "harp": {
+        "stamp": "20240904T192818",
+        "name": "PACE_HARP2.20240904T192818.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238732-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T192818",
+        "name": "PACE_OCI.20240904T192818.L1C.V3.5km.nc",
+        "concept_id": "G3408277453-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T193318",
+      "harp": {
+        "stamp": "20240904T193318",
+        "name": "PACE_HARP2.20240904T193318.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238729-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T193318",
+        "name": "PACE_OCI.20240904T193318.L1C.V3.5km.nc",
+        "concept_id": "G3408278152-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T202635",
+      "harp": {
+        "stamp": "20240904T202635",
+        "name": "PACE_HARP2.20240904T202635.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238725-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T202635",
+        "name": "PACE_OCI.20240904T202635.L1C.V3.5km.nc",
+        "concept_id": "G3408277474-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T203135",
+      "harp": {
+        "stamp": "20240904T203135",
+        "name": "PACE_HARP2.20240904T203135.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238770-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T203135",
+        "name": "PACE_OCI.20240904T203135.L1C.V3.5km.nc",
+        "concept_id": "G3408277476-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T203635",
+      "harp": {
+        "stamp": "20240904T203635",
+        "name": "PACE_HARP2.20240904T203635.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238724-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T203635",
+        "name": "PACE_OCI.20240904T203635.L1C.V3.5km.nc",
+        "concept_id": "G3408277467-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T204135",
+      "harp": {
+        "stamp": "20240904T204135",
+        "name": "PACE_HARP2.20240904T204135.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238730-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T204135",
+        "name": "PACE_OCI.20240904T204135.L1C.V3.5km.nc",
+        "concept_id": "G3408277478-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T204635",
+      "harp": {
+        "stamp": "20240904T204635",
+        "name": "PACE_HARP2.20240904T204635.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238760-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T204635",
+        "name": "PACE_OCI.20240904T204635.L1C.V3.5km.nc",
+        "concept_id": "G3408277469-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T205135",
+      "harp": {
+        "stamp": "20240904T205135",
+        "name": "PACE_HARP2.20240904T205135.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238786-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T205135",
+        "name": "PACE_OCI.20240904T205135.L1C.V3.5km.nc",
+        "concept_id": "G3408277477-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T205635",
+      "harp": {
+        "stamp": "20240904T205635",
+        "name": "PACE_HARP2.20240904T205635.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238759-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T205635",
+        "name": "PACE_OCI.20240904T205635.L1C.V3.5km.nc",
+        "concept_id": "G3408277487-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T210135",
+      "harp": {
+        "stamp": "20240904T210135",
+        "name": "PACE_HARP2.20240904T210135.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238747-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T210135",
+        "name": "PACE_OCI.20240904T210135.L1C.V3.5km.nc",
+        "concept_id": "G3408277497-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T210635",
+      "harp": {
+        "stamp": "20240904T210635",
+        "name": "PACE_HARP2.20240904T210635.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238756-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T210635",
+        "name": "PACE_OCI.20240904T210635.L1C.V3.5km.nc",
+        "concept_id": "G3408277506-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T211135",
+      "harp": {
+        "stamp": "20240904T211135",
+        "name": "PACE_HARP2.20240904T211135.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238746-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T211135",
+        "name": "PACE_OCI.20240904T211135.L1C.V3.5km.nc",
+        "concept_id": "G3408277485-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T220453",
+      "harp": {
+        "stamp": "20240904T220453",
+        "name": "PACE_HARP2.20240904T220453.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238744-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T220453",
+        "name": "PACE_OCI.20240904T220453.L1C.V3.5km.nc",
+        "concept_id": "G3408277505-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T220953",
+      "harp": {
+        "stamp": "20240904T220953",
+        "name": "PACE_HARP2.20240904T220953.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238762-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T220953",
+        "name": "PACE_OCI.20240904T220953.L1C.V3.5km.nc",
+        "concept_id": "G3408277522-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T221453",
+      "harp": {
+        "stamp": "20240904T221453",
+        "name": "PACE_HARP2.20240904T221453.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238733-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T221453",
+        "name": "PACE_OCI.20240904T221453.L1C.V3.5km.nc",
+        "concept_id": "G3408277510-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T221953",
+      "harp": {
+        "stamp": "20240904T221953",
+        "name": "PACE_HARP2.20240904T221953.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238758-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T221953",
+        "name": "PACE_OCI.20240904T221953.L1C.V3.5km.nc",
+        "concept_id": "G3408278022-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T222453",
+      "harp": {
+        "stamp": "20240904T222453",
+        "name": "PACE_HARP2.20240904T222453.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238743-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T222453",
+        "name": "PACE_OCI.20240904T222453.L1C.V3.5km.nc",
+        "concept_id": "G3408278094-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T222953",
+      "harp": {
+        "stamp": "20240904T222953",
+        "name": "PACE_HARP2.20240904T222953.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238742-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T222953",
+        "name": "PACE_OCI.20240904T222953.L1C.V3.5km.nc",
+        "concept_id": "G3408278110-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T223453",
+      "harp": {
+        "stamp": "20240904T223453",
+        "name": "PACE_HARP2.20240904T223453.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238779-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T223453",
+        "name": "PACE_OCI.20240904T223453.L1C.V3.5km.nc",
+        "concept_id": "G3408277819-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T223953",
+      "harp": {
+        "stamp": "20240904T223953",
+        "name": "PACE_HARP2.20240904T223953.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238751-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T223953",
+        "name": "PACE_OCI.20240904T223953.L1C.V3.5km.nc",
+        "concept_id": "G3408277799-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T224453",
+      "harp": {
+        "stamp": "20240904T224453",
+        "name": "PACE_HARP2.20240904T224453.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238792-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T224453",
+        "name": "PACE_OCI.20240904T224453.L1C.V3.5km.nc",
+        "concept_id": "G3408277525-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T224953",
+      "harp": {
+        "stamp": "20240904T224953",
+        "name": "PACE_HARP2.20240904T224953.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238776-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T224953",
+        "name": "PACE_OCI.20240904T224953.L1C.V3.5km.nc",
+        "concept_id": "G3408277535-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T234311",
+      "harp": {
+        "stamp": "20240904T234311",
+        "name": "PACE_HARP2.20240904T234311.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238784-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T234311",
+        "name": "PACE_OCI.20240904T234311.L1C.V3.5km.nc",
+        "concept_id": "G3408277557-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T234811",
+      "harp": {
+        "stamp": "20240904T234811",
+        "name": "PACE_HARP2.20240904T234811.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238766-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T234811",
+        "name": "PACE_OCI.20240904T234811.L1C.V3.5km.nc",
+        "concept_id": "G3408277534-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T235311",
+      "harp": {
+        "stamp": "20240904T235311",
+        "name": "PACE_HARP2.20240904T235311.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238799-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T235311",
+        "name": "PACE_OCI.20240904T235311.L1C.V3.5km.nc",
+        "concept_id": "G3406526508-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240904T235811",
+      "harp": {
+        "stamp": "20240904T235811",
+        "name": "PACE_HARP2.20240904T235811.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238780-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240904T235811",
+        "name": "PACE_OCI.20240904T235811.L1C.V3.5km.nc",
+        "concept_id": "G3408277545-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T000311",
+      "harp": {
+        "stamp": "20240905T000311",
+        "name": "PACE_HARP2.20240905T000311.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238785-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T000311",
+        "name": "PACE_OCI.20240905T000311.L1C.V3.5km.nc",
+        "concept_id": "G3408277543-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T000811",
+      "harp": {
+        "stamp": "20240905T000811",
+        "name": "PACE_HARP2.20240905T000811.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238773-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T000811",
+        "name": "PACE_OCI.20240905T000811.L1C.V3.5km.nc",
+        "concept_id": "G3408277548-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T001311",
+      "harp": {
+        "stamp": "20240905T001311",
+        "name": "PACE_HARP2.20240905T001311.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238782-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T001311",
+        "name": "PACE_OCI.20240905T001311.L1C.V3.5km.nc",
+        "concept_id": "G3408277563-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T001811",
+      "harp": {
+        "stamp": "20240905T001811",
+        "name": "PACE_HARP2.20240905T001811.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238794-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T001811",
+        "name": "PACE_OCI.20240905T001811.L1C.V3.5km.nc",
+        "concept_id": "G3408277560-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T002311",
+      "harp": {
+        "stamp": "20240905T002311",
+        "name": "PACE_HARP2.20240905T002311.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238802-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T002311",
+        "name": "PACE_OCI.20240905T002311.L1C.V3.5km.nc",
+        "concept_id": "G3408277558-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T002811",
+      "harp": {
+        "stamp": "20240905T002811",
+        "name": "PACE_HARP2.20240905T002811.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238788-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T002811",
+        "name": "PACE_OCI.20240905T002811.L1C.V3.5km.nc",
+        "concept_id": "G3408277796-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T012128",
+      "harp": {
+        "stamp": "20240905T012128",
+        "name": "PACE_HARP2.20240905T012128.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238783-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T012128",
+        "name": "PACE_OCI.20240905T012128.L1C.V3.5km.nc",
+        "concept_id": "G3408277559-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T012628",
+      "harp": {
+        "stamp": "20240905T012628",
+        "name": "PACE_HARP2.20240905T012628.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238798-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T012628",
+        "name": "PACE_OCI.20240905T012628.L1C.V3.5km.nc",
+        "concept_id": "G3408277566-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T013128",
+      "harp": {
+        "stamp": "20240905T013128",
+        "name": "PACE_HARP2.20240905T013128.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238809-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T013128",
+        "name": "PACE_OCI.20240905T013128.L1C.V3.5km.nc",
+        "concept_id": "G3408277564-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T013628",
+      "harp": {
+        "stamp": "20240905T013628",
+        "name": "PACE_HARP2.20240905T013628.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238789-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T013628",
+        "name": "PACE_OCI.20240905T013628.L1C.V3.5km.nc",
+        "concept_id": "G3408277612-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T014128",
+      "harp": {
+        "stamp": "20240905T014128",
+        "name": "PACE_HARP2.20240905T014128.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238811-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T014128",
+        "name": "PACE_OCI.20240905T014128.L1C.V3.5km.nc",
+        "concept_id": "G3408277592-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T014628",
+      "harp": {
+        "stamp": "20240905T014628",
+        "name": "PACE_HARP2.20240905T014628.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238803-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T014628",
+        "name": "PACE_OCI.20240905T014628.L1C.V3.5km.nc",
+        "concept_id": "G3406526537-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T015128",
+      "harp": {
+        "stamp": "20240905T015128",
+        "name": "PACE_HARP2.20240905T015128.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238810-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T015128",
+        "name": "PACE_OCI.20240905T015128.L1C.V3.5km.nc",
+        "concept_id": "G3408277605-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T015628",
+      "harp": {
+        "stamp": "20240905T015628",
+        "name": "PACE_HARP2.20240905T015628.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238805-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T015628",
+        "name": "PACE_OCI.20240905T015628.L1C.V3.5km.nc",
+        "concept_id": "G3408277600-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T020128",
+      "harp": {
+        "stamp": "20240905T020128",
+        "name": "PACE_HARP2.20240905T020128.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238819-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T020128",
+        "name": "PACE_OCI.20240905T020128.L1C.V3.5km.nc",
+        "concept_id": "G3408277591-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T020628",
+      "harp": {
+        "stamp": "20240905T020628",
+        "name": "PACE_HARP2.20240905T020628.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238795-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T020628",
+        "name": "PACE_OCI.20240905T020628.L1C.V3.5km.nc",
+        "concept_id": "G3408277604-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T025946",
+      "harp": {
+        "stamp": "20240905T025946",
+        "name": "PACE_HARP2.20240905T025946.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238936-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T025946",
+        "name": "PACE_OCI.20240905T025946.L1C.V3.5km.nc",
+        "concept_id": "G3408277625-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T030446",
+      "harp": {
+        "stamp": "20240905T030446",
+        "name": "PACE_HARP2.20240905T030446.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238804-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T030446",
+        "name": "PACE_OCI.20240905T030446.L1C.V3.5km.nc",
+        "concept_id": "G3408277628-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T030946",
+      "harp": {
+        "stamp": "20240905T030946",
+        "name": "PACE_HARP2.20240905T030946.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238821-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T030946",
+        "name": "PACE_OCI.20240905T030946.L1C.V3.5km.nc",
+        "concept_id": "G3408277606-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T031446",
+      "harp": {
+        "stamp": "20240905T031446",
+        "name": "PACE_HARP2.20240905T031446.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238817-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T031446",
+        "name": "PACE_OCI.20240905T031446.L1C.V3.5km.nc",
+        "concept_id": "G3408277627-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T031946",
+      "harp": {
+        "stamp": "20240905T031946",
+        "name": "PACE_HARP2.20240905T031946.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238812-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T031946",
+        "name": "PACE_OCI.20240905T031946.L1C.V3.5km.nc",
+        "concept_id": "G3408277641-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T032446",
+      "harp": {
+        "stamp": "20240905T032446",
+        "name": "PACE_HARP2.20240905T032446.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238854-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T032446",
+        "name": "PACE_OCI.20240905T032446.L1C.V3.5km.nc",
+        "concept_id": "G3408277635-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T032946",
+      "harp": {
+        "stamp": "20240905T032946",
+        "name": "PACE_HARP2.20240905T032946.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238828-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T032946",
+        "name": "PACE_OCI.20240905T032946.L1C.V3.5km.nc",
+        "concept_id": "G3408277644-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T033446",
+      "harp": {
+        "stamp": "20240905T033446",
+        "name": "PACE_HARP2.20240905T033446.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238825-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T033446",
+        "name": "PACE_OCI.20240905T033446.L1C.V3.5km.nc",
+        "concept_id": "G3408277660-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T033946",
+      "harp": {
+        "stamp": "20240905T033946",
+        "name": "PACE_HARP2.20240905T033946.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238834-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T033946",
+        "name": "PACE_OCI.20240905T033946.L1C.V3.5km.nc",
+        "concept_id": "G3408277629-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T043803",
+      "harp": {
+        "stamp": "20240905T043803",
+        "name": "PACE_HARP2.20240905T043803.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238822-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T043803",
+        "name": "PACE_OCI.20240905T043803.L1C.V3.5km.nc",
+        "concept_id": "G3408277654-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T044303",
+      "harp": {
+        "stamp": "20240905T044303",
+        "name": "PACE_HARP2.20240905T044303.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238829-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T044303",
+        "name": "PACE_OCI.20240905T044303.L1C.V3.5km.nc",
+        "concept_id": "G3408277684-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T044803",
+      "harp": {
+        "stamp": "20240905T044803",
+        "name": "PACE_HARP2.20240905T044803.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238824-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T044803",
+        "name": "PACE_OCI.20240905T044803.L1C.V3.5km.nc",
+        "concept_id": "G3408277782-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T045303",
+      "harp": {
+        "stamp": "20240905T045303",
+        "name": "PACE_HARP2.20240905T045303.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238836-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T045303",
+        "name": "PACE_OCI.20240905T045303.L1C.V3.5km.nc",
+        "concept_id": "G3408277685-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T045803",
+      "harp": {
+        "stamp": "20240905T045803",
+        "name": "PACE_HARP2.20240905T045803.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238855-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T045803",
+        "name": "PACE_OCI.20240905T045803.L1C.V3.5km.nc",
+        "concept_id": "G3408277675-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T050303",
+      "harp": {
+        "stamp": "20240905T050303",
+        "name": "PACE_HARP2.20240905T050303.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238832-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T050303",
+        "name": "PACE_OCI.20240905T050303.L1C.V3.5km.nc",
+        "concept_id": "G3408277686-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T050803",
+      "harp": {
+        "stamp": "20240905T050803",
+        "name": "PACE_HARP2.20240905T050803.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238843-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T050803",
+        "name": "PACE_OCI.20240905T050803.L1C.V3.5km.nc",
+        "concept_id": "G3408277739-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T051303",
+      "harp": {
+        "stamp": "20240905T051303",
+        "name": "PACE_HARP2.20240905T051303.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238840-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T051303",
+        "name": "PACE_OCI.20240905T051303.L1C.V3.5km.nc",
+        "concept_id": "G3408277693-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T051803",
+      "harp": {
+        "stamp": "20240905T051803",
+        "name": "PACE_HARP2.20240905T051803.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238848-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T051803",
+        "name": "PACE_OCI.20240905T051803.L1C.V3.5km.nc",
+        "concept_id": "G3408277678-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T052303",
+      "harp": {
+        "stamp": "20240905T052303",
+        "name": "PACE_HARP2.20240905T052303.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238833-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T052303",
+        "name": "PACE_OCI.20240905T052303.L1C.V3.5km.nc",
+        "concept_id": "G3408277663-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T061621",
+      "harp": {
+        "stamp": "20240905T061621",
+        "name": "PACE_HARP2.20240905T061621.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238839-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T061621",
+        "name": "PACE_OCI.20240905T061621.L1C.V3.5km.nc",
+        "concept_id": "G3408277689-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T062121",
+      "harp": {
+        "stamp": "20240905T062121",
+        "name": "PACE_HARP2.20240905T062121.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238845-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T062121",
+        "name": "PACE_OCI.20240905T062121.L1C.V3.5km.nc",
+        "concept_id": "G3408277683-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T062621",
+      "harp": {
+        "stamp": "20240905T062621",
+        "name": "PACE_HARP2.20240905T062621.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238865-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T062621",
+        "name": "PACE_OCI.20240905T062621.L1C.V3.5km.nc",
+        "concept_id": "G3408277688-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T063121",
+      "harp": {
+        "stamp": "20240905T063121",
+        "name": "PACE_HARP2.20240905T063121.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238847-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T063121",
+        "name": "PACE_OCI.20240905T063121.L1C.V3.5km.nc",
+        "concept_id": "G3408277698-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T063621",
+      "harp": {
+        "stamp": "20240905T063621",
+        "name": "PACE_HARP2.20240905T063621.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238842-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T063621",
+        "name": "PACE_OCI.20240905T063621.L1C.V3.5km.nc",
+        "concept_id": "G3408277687-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T064121",
+      "harp": {
+        "stamp": "20240905T064121",
+        "name": "PACE_HARP2.20240905T064121.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238861-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T064121",
+        "name": "PACE_OCI.20240905T064121.L1C.V3.5km.nc",
+        "concept_id": "G3408277694-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T064621",
+      "harp": {
+        "stamp": "20240905T064621",
+        "name": "PACE_HARP2.20240905T064621.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238837-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T064621",
+        "name": "PACE_OCI.20240905T064621.L1C.V3.5km.nc",
+        "concept_id": "G3408277761-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T065121",
+      "harp": {
+        "stamp": "20240905T065121",
+        "name": "PACE_HARP2.20240905T065121.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238846-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T065121",
+        "name": "PACE_OCI.20240905T065121.L1C.V3.5km.nc",
+        "concept_id": "G3408277703-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T065621",
+      "harp": {
+        "stamp": "20240905T065621",
+        "name": "PACE_HARP2.20240905T065621.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238849-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T065621",
+        "name": "PACE_OCI.20240905T065621.L1C.V3.5km.nc",
+        "concept_id": "G3408277706-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T070121",
+      "harp": {
+        "stamp": "20240905T070121",
+        "name": "PACE_HARP2.20240905T070121.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238875-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T070121",
+        "name": "PACE_OCI.20240905T070121.L1C.V3.5km.nc",
+        "concept_id": "G3408277709-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T075438",
+      "harp": {
+        "stamp": "20240905T075438",
+        "name": "PACE_HARP2.20240905T075438.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238858-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T075438",
+        "name": "PACE_OCI.20240905T075438.L1C.V3.5km.nc",
+        "concept_id": "G3408277712-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T075938",
+      "harp": {
+        "stamp": "20240905T075938",
+        "name": "PACE_HARP2.20240905T075938.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238852-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T075938",
+        "name": "PACE_OCI.20240905T075938.L1C.V3.5km.nc",
+        "concept_id": "G3408277802-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T080438",
+      "harp": {
+        "stamp": "20240905T080438",
+        "name": "PACE_HARP2.20240905T080438.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238860-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T080438",
+        "name": "PACE_OCI.20240905T080438.L1C.V3.5km.nc",
+        "concept_id": "G3408277719-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T080938",
+      "harp": {
+        "stamp": "20240905T080938",
+        "name": "PACE_HARP2.20240905T080938.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238863-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T080938",
+        "name": "PACE_OCI.20240905T080938.L1C.V3.5km.nc",
+        "concept_id": "G3408277707-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T081438",
+      "harp": {
+        "stamp": "20240905T081438",
+        "name": "PACE_HARP2.20240905T081438.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238851-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T081438",
+        "name": "PACE_OCI.20240905T081438.L1C.V3.5km.nc",
+        "concept_id": "G3408277704-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T081938",
+      "harp": {
+        "stamp": "20240905T081938",
+        "name": "PACE_HARP2.20240905T081938.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238862-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T081938",
+        "name": "PACE_OCI.20240905T081938.L1C.V3.5km.nc",
+        "concept_id": "G3408277708-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T082438",
+      "harp": {
+        "stamp": "20240905T082438",
+        "name": "PACE_HARP2.20240905T082438.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238884-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T082438",
+        "name": "PACE_OCI.20240905T082438.L1C.V3.5km.nc",
+        "concept_id": "G3408277710-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T082938",
+      "harp": {
+        "stamp": "20240905T082938",
+        "name": "PACE_HARP2.20240905T082938.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238867-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T082938",
+        "name": "PACE_OCI.20240905T082938.L1C.V3.5km.nc",
+        "concept_id": "G3408277717-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T083438",
+      "harp": {
+        "stamp": "20240905T083438",
+        "name": "PACE_HARP2.20240905T083438.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238874-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T083438",
+        "name": "PACE_OCI.20240905T083438.L1C.V3.5km.nc",
+        "concept_id": "G3408277730-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T083938",
+      "harp": {
+        "stamp": "20240905T083938",
+        "name": "PACE_HARP2.20240905T083938.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238866-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T083938",
+        "name": "PACE_OCI.20240905T083938.L1C.V3.5km.nc",
+        "concept_id": "G3408277731-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T093256",
+      "harp": {
+        "stamp": "20240905T093256",
+        "name": "PACE_HARP2.20240905T093256.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238880-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T093256",
+        "name": "PACE_OCI.20240905T093256.L1C.V3.5km.nc",
+        "concept_id": "G3408277728-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T093756",
+      "harp": {
+        "stamp": "20240905T093756",
+        "name": "PACE_HARP2.20240905T093756.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238896-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T093756",
+        "name": "PACE_OCI.20240905T093756.L1C.V3.5km.nc",
+        "concept_id": "G3408347030-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T094256",
+      "harp": {
+        "stamp": "20240905T094256",
+        "name": "PACE_HARP2.20240905T094256.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238883-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T094256",
+        "name": "PACE_OCI.20240905T094256.L1C.V3.5km.nc",
+        "concept_id": "G3408347174-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T094756",
+      "harp": {
+        "stamp": "20240905T094756",
+        "name": "PACE_HARP2.20240905T094756.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238886-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T094756",
+        "name": "PACE_OCI.20240905T094756.L1C.V3.5km.nc",
+        "concept_id": "G3408347224-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T095256",
+      "harp": {
+        "stamp": "20240905T095256",
+        "name": "PACE_HARP2.20240905T095256.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238882-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T095256",
+        "name": "PACE_OCI.20240905T095256.L1C.V3.5km.nc",
+        "concept_id": "G3408356303-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T095756",
+      "harp": {
+        "stamp": "20240905T095756",
+        "name": "PACE_HARP2.20240905T095756.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238891-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T095756",
+        "name": "PACE_OCI.20240905T095756.L1C.V3.5km.nc",
+        "concept_id": "G3408356315-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T100256",
+      "harp": {
+        "stamp": "20240905T100256",
+        "name": "PACE_HARP2.20240905T100256.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238888-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T100256",
+        "name": "PACE_OCI.20240905T100256.L1C.V3.5km.nc",
+        "concept_id": "G3408347173-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T100756",
+      "harp": {
+        "stamp": "20240905T100756",
+        "name": "PACE_HARP2.20240905T100756.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238894-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T100756",
+        "name": "PACE_OCI.20240905T100756.L1C.V3.5km.nc",
+        "concept_id": "G3408347188-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T101256",
+      "harp": {
+        "stamp": "20240905T101256",
+        "name": "PACE_HARP2.20240905T101256.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238881-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T101256",
+        "name": "PACE_OCI.20240905T101256.L1C.V3.5km.nc",
+        "concept_id": "G3408347331-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T101756",
+      "harp": {
+        "stamp": "20240905T101756",
+        "name": "PACE_HARP2.20240905T101756.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238870-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T101756",
+        "name": "PACE_OCI.20240905T101756.L1C.V3.5km.nc",
+        "concept_id": "G3408347234-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T111113",
+      "harp": {
+        "stamp": "20240905T111113",
+        "name": "PACE_HARP2.20240905T111113.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238904-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T111113",
+        "name": "PACE_OCI.20240905T111113.L1C.V3.5km.nc",
+        "concept_id": "G3408347394-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T111613",
+      "harp": {
+        "stamp": "20240905T111613",
+        "name": "PACE_HARP2.20240905T111613.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238877-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T111613",
+        "name": "PACE_OCI.20240905T111613.L1C.V3.5km.nc",
+        "concept_id": "G3408347379-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T112113",
+      "harp": {
+        "stamp": "20240905T112113",
+        "name": "PACE_HARP2.20240905T112113.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238879-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T112113",
+        "name": "PACE_OCI.20240905T112113.L1C.V3.5km.nc",
+        "concept_id": "G3408347256-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T112613",
+      "harp": {
+        "stamp": "20240905T112613",
+        "name": "PACE_HARP2.20240905T112613.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238887-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T112613",
+        "name": "PACE_OCI.20240905T112613.L1C.V3.5km.nc",
+        "concept_id": "G3406526536-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T113113",
+      "harp": {
+        "stamp": "20240905T113113",
+        "name": "PACE_HARP2.20240905T113113.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238871-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T113113",
+        "name": "PACE_OCI.20240905T113113.L1C.V3.5km.nc",
+        "concept_id": "G3408347467-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T113613",
+      "harp": {
+        "stamp": "20240905T113613",
+        "name": "PACE_HARP2.20240905T113613.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238899-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T113613",
+        "name": "PACE_OCI.20240905T113613.L1C.V3.5km.nc",
+        "concept_id": "G3408347257-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T114113",
+      "harp": {
+        "stamp": "20240905T114113",
+        "name": "PACE_HARP2.20240905T114113.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238903-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T114113",
+        "name": "PACE_OCI.20240905T114113.L1C.V3.5km.nc",
+        "concept_id": "G3408347371-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T114613",
+      "harp": {
+        "stamp": "20240905T114613",
+        "name": "PACE_HARP2.20240905T114613.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238916-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T114613",
+        "name": "PACE_OCI.20240905T114613.L1C.V3.5km.nc",
+        "concept_id": "G3408347298-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T115113",
+      "harp": {
+        "stamp": "20240905T115113",
+        "name": "PACE_HARP2.20240905T115113.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238909-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T115113",
+        "name": "PACE_OCI.20240905T115113.L1C.V3.5km.nc",
+        "concept_id": "G3406526523-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T115613",
+      "harp": {
+        "stamp": "20240905T115613",
+        "name": "PACE_HARP2.20240905T115613.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238914-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T115613",
+        "name": "PACE_OCI.20240905T115613.L1C.V3.5km.nc",
+        "concept_id": "G3406526539-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T124931",
+      "harp": {
+        "stamp": "20240905T124931",
+        "name": "PACE_HARP2.20240905T124931.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238898-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T124931",
+        "name": "PACE_OCI.20240905T124931.L1C.V3.5km.nc",
+        "concept_id": "G3408347304-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T125431",
+      "harp": {
+        "stamp": "20240905T125431",
+        "name": "PACE_HARP2.20240905T125431.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238922-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T125431",
+        "name": "PACE_OCI.20240905T125431.L1C.V3.5km.nc",
+        "concept_id": "G3408347330-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T125931",
+      "harp": {
+        "stamp": "20240905T125931",
+        "name": "PACE_HARP2.20240905T125931.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238892-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T125931",
+        "name": "PACE_OCI.20240905T125931.L1C.V3.5km.nc",
+        "concept_id": "G3408347332-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T130431",
+      "harp": {
+        "stamp": "20240905T130431",
+        "name": "PACE_HARP2.20240905T130431.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238933-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T130431",
+        "name": "PACE_OCI.20240905T130431.L1C.V3.5km.nc",
+        "concept_id": "G3408347354-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T130931",
+      "harp": {
+        "stamp": "20240905T130931",
+        "name": "PACE_HARP2.20240905T130931.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238902-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T130931",
+        "name": "PACE_OCI.20240905T130931.L1C.V3.5km.nc",
+        "concept_id": "G3408347108-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T131431",
+      "harp": {
+        "stamp": "20240905T131431",
+        "name": "PACE_HARP2.20240905T131431.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238919-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T131431",
+        "name": "PACE_OCI.20240905T131431.L1C.V3.5km.nc",
+        "concept_id": "G3406413234-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T131931",
+      "harp": {
+        "stamp": "20240905T131931",
+        "name": "PACE_HARP2.20240905T131931.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238923-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T131931",
+        "name": "PACE_OCI.20240905T131931.L1C.V3.5km.nc",
+        "concept_id": "G3408347077-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T132431",
+      "harp": {
+        "stamp": "20240905T132431",
+        "name": "PACE_HARP2.20240905T132431.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238940-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T132431",
+        "name": "PACE_OCI.20240905T132431.L1C.V3.5km.nc",
+        "concept_id": "G3408347374-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T132931",
+      "harp": {
+        "stamp": "20240905T132931",
+        "name": "PACE_HARP2.20240905T132931.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238915-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T132931",
+        "name": "PACE_OCI.20240905T132931.L1C.V3.5km.nc",
+        "concept_id": "G3408347369-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T133431",
+      "harp": {
+        "stamp": "20240905T133431",
+        "name": "PACE_HARP2.20240905T133431.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238921-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T133431",
+        "name": "PACE_OCI.20240905T133431.L1C.V3.5km.nc",
+        "concept_id": "G3408347370-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T142748",
+      "harp": {
+        "stamp": "20240905T142748",
+        "name": "PACE_HARP2.20240905T142748.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238926-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T142748",
+        "name": "PACE_OCI.20240905T142748.L1C.V3.5km.nc",
+        "concept_id": "G3408347396-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T143248",
+      "harp": {
+        "stamp": "20240905T143248",
+        "name": "PACE_HARP2.20240905T143248.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238938-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T143248",
+        "name": "PACE_OCI.20240905T143248.L1C.V3.5km.nc",
+        "concept_id": "G3408347386-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T143748",
+      "harp": {
+        "stamp": "20240905T143748",
+        "name": "PACE_HARP2.20240905T143748.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238939-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T143748",
+        "name": "PACE_OCI.20240905T143748.L1C.V3.5km.nc",
+        "concept_id": "G3408347437-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T144248",
+      "harp": {
+        "stamp": "20240905T144248",
+        "name": "PACE_HARP2.20240905T144248.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238918-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T144248",
+        "name": "PACE_OCI.20240905T144248.L1C.V3.5km.nc",
+        "concept_id": "G3408347429-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T144748",
+      "harp": {
+        "stamp": "20240905T144748",
+        "name": "PACE_HARP2.20240905T144748.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238924-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T144748",
+        "name": "PACE_OCI.20240905T144748.L1C.V3.5km.nc",
+        "concept_id": "G3408347458-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T145248",
+      "harp": {
+        "stamp": "20240905T145248",
+        "name": "PACE_HARP2.20240905T145248.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238949-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T145248",
+        "name": "PACE_OCI.20240905T145248.L1C.V3.5km.nc",
+        "concept_id": "G3408347450-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T145748",
+      "harp": {
+        "stamp": "20240905T145748",
+        "name": "PACE_HARP2.20240905T145748.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238928-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T145748",
+        "name": "PACE_OCI.20240905T145748.L1C.V3.5km.nc",
+        "concept_id": "G3408347466-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T150248",
+      "harp": {
+        "stamp": "20240905T150248",
+        "name": "PACE_HARP2.20240905T150248.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238983-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T150248",
+        "name": "PACE_OCI.20240905T150248.L1C.V3.5km.nc",
+        "concept_id": "G3408347118-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T150748",
+      "harp": {
+        "stamp": "20240905T150748",
+        "name": "PACE_HARP2.20240905T150748.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238931-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T150748",
+        "name": "PACE_OCI.20240905T150748.L1C.V3.5km.nc",
+        "concept_id": "G3408347099-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T151248",
+      "harp": {
+        "stamp": "20240905T151248",
+        "name": "PACE_HARP2.20240905T151248.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238942-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T151248",
+        "name": "PACE_OCI.20240905T151248.L1C.V3.5km.nc",
+        "concept_id": "G3408347487-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T160606",
+      "harp": {
+        "stamp": "20240905T160606",
+        "name": "PACE_HARP2.20240905T160606.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238929-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T160606",
+        "name": "PACE_OCI.20240905T160606.L1C.V3.5km.nc",
+        "concept_id": "G3408347462-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T161106",
+      "harp": {
+        "stamp": "20240905T161106",
+        "name": "PACE_HARP2.20240905T161106.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238953-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T161106",
+        "name": "PACE_OCI.20240905T161106.L1C.V3.5km.nc",
+        "concept_id": "G3408347476-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T161606",
+      "harp": {
+        "stamp": "20240905T161606",
+        "name": "PACE_HARP2.20240905T161606.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238944-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T161606",
+        "name": "PACE_OCI.20240905T161606.L1C.V3.5km.nc",
+        "concept_id": "G3408347530-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T162106",
+      "harp": {
+        "stamp": "20240905T162106",
+        "name": "PACE_HARP2.20240905T162106.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238930-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T162106",
+        "name": "PACE_OCI.20240905T162106.L1C.V3.5km.nc",
+        "concept_id": "G3408347486-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T162606",
+      "harp": {
+        "stamp": "20240905T162606",
+        "name": "PACE_HARP2.20240905T162606.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238937-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T162606",
+        "name": "PACE_OCI.20240905T162606.L1C.V3.5km.nc",
+        "concept_id": "G3408347522-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T163106",
+      "harp": {
+        "stamp": "20240905T163106",
+        "name": "PACE_HARP2.20240905T163106.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238948-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T163106",
+        "name": "PACE_OCI.20240905T163106.L1C.V3.5km.nc",
+        "concept_id": "G3408347546-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T163606",
+      "harp": {
+        "stamp": "20240905T163606",
+        "name": "PACE_HARP2.20240905T163606.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238971-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T163606",
+        "name": "PACE_OCI.20240905T163606.L1C.V3.5km.nc",
+        "concept_id": "G3408347577-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T164106",
+      "harp": {
+        "stamp": "20240905T164106",
+        "name": "PACE_HARP2.20240905T164106.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238970-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T164106",
+        "name": "PACE_OCI.20240905T164106.L1C.V3.5km.nc",
+        "concept_id": "G3408347532-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T164606",
+      "harp": {
+        "stamp": "20240905T164606",
+        "name": "PACE_HARP2.20240905T164606.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238957-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T164606",
+        "name": "PACE_OCI.20240905T164606.L1C.V3.5km.nc",
+        "concept_id": "G3408347524-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T165106",
+      "harp": {
+        "stamp": "20240905T165106",
+        "name": "PACE_HARP2.20240905T165106.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238951-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T165106",
+        "name": "PACE_OCI.20240905T165106.L1C.V3.5km.nc",
+        "concept_id": "G3408347593-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T174423",
+      "harp": {
+        "stamp": "20240905T174423",
+        "name": "PACE_HARP2.20240905T174423.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255238958-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T174423",
+        "name": "PACE_OCI.20240905T174423.L1C.V3.5km.nc",
+        "concept_id": "G3408346931-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T174923",
+      "harp": {
+        "stamp": "20240905T174923",
+        "name": "PACE_HARP2.20240905T174923.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239088-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T174923",
+        "name": "PACE_OCI.20240905T174923.L1C.V3.5km.nc",
+        "concept_id": "G3408348499-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T175423",
+      "harp": {
+        "stamp": "20240905T175423",
+        "name": "PACE_HARP2.20240905T175423.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239078-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T175423",
+        "name": "PACE_OCI.20240905T175423.L1C.V3.5km.nc",
+        "concept_id": "G3408347603-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T175923",
+      "harp": {
+        "stamp": "20240905T175923",
+        "name": "PACE_HARP2.20240905T175923.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239079-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T175923",
+        "name": "PACE_OCI.20240905T175923.L1C.V3.5km.nc",
+        "concept_id": "G3408347576-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T180423",
+      "harp": {
+        "stamp": "20240905T180423",
+        "name": "PACE_HARP2.20240905T180423.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239084-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T180423",
+        "name": "PACE_OCI.20240905T180423.L1C.V3.5km.nc",
+        "concept_id": "G3408347531-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T180923",
+      "harp": {
+        "stamp": "20240905T180923",
+        "name": "PACE_HARP2.20240905T180923.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239075-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T180923",
+        "name": "PACE_OCI.20240905T180923.L1C.V3.5km.nc",
+        "concept_id": "G3408347627-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T181423",
+      "harp": {
+        "stamp": "20240905T181423",
+        "name": "PACE_HARP2.20240905T181423.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239089-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T181423",
+        "name": "PACE_OCI.20240905T181423.L1C.V3.5km.nc",
+        "concept_id": "G3408346920-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T181923",
+      "harp": {
+        "stamp": "20240905T181923",
+        "name": "PACE_HARP2.20240905T181923.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239076-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T181923",
+        "name": "PACE_OCI.20240905T181923.L1C.V3.5km.nc",
+        "concept_id": "G3408347682-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T182423",
+      "harp": {
+        "stamp": "20240905T182423",
+        "name": "PACE_HARP2.20240905T182423.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239082-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T182423",
+        "name": "PACE_OCI.20240905T182423.L1C.V3.5km.nc",
+        "concept_id": "G3406526558-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T182923",
+      "harp": {
+        "stamp": "20240905T182923",
+        "name": "PACE_HARP2.20240905T182923.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239086-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T182923",
+        "name": "PACE_OCI.20240905T182923.L1C.V3.5km.nc",
+        "concept_id": "G3408347700-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T192241",
+      "harp": {
+        "stamp": "20240905T192241",
+        "name": "PACE_HARP2.20240905T192241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239081-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T192241",
+        "name": "PACE_OCI.20240905T192241.L1C.V3.5km.nc",
+        "concept_id": "G3408347676-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T192741",
+      "harp": {
+        "stamp": "20240905T192741",
+        "name": "PACE_HARP2.20240905T192741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239104-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T192741",
+        "name": "PACE_OCI.20240905T192741.L1C.V3.5km.nc",
+        "concept_id": "G3408347714-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T193241",
+      "harp": {
+        "stamp": "20240905T193241",
+        "name": "PACE_HARP2.20240905T193241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239087-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T193241",
+        "name": "PACE_OCI.20240905T193241.L1C.V3.5km.nc",
+        "concept_id": "G3408347938-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T193741",
+      "harp": {
+        "stamp": "20240905T193741",
+        "name": "PACE_HARP2.20240905T193741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239083-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T193741",
+        "name": "PACE_OCI.20240905T193741.L1C.V3.5km.nc",
+        "concept_id": "G3408347739-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T194241",
+      "harp": {
+        "stamp": "20240905T194241",
+        "name": "PACE_HARP2.20240905T194241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239121-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T194241",
+        "name": "PACE_OCI.20240905T194241.L1C.V3.5km.nc",
+        "concept_id": "G3408347750-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T194741",
+      "harp": {
+        "stamp": "20240905T194741",
+        "name": "PACE_HARP2.20240905T194741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239085-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T194741",
+        "name": "PACE_OCI.20240905T194741.L1C.V3.5km.nc",
+        "concept_id": "G3408347749-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T195241",
+      "harp": {
+        "stamp": "20240905T195241",
+        "name": "PACE_HARP2.20240905T195241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239077-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T195241",
+        "name": "PACE_OCI.20240905T195241.L1C.V3.5km.nc",
+        "concept_id": "G3408347754-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T195741",
+      "harp": {
+        "stamp": "20240905T195741",
+        "name": "PACE_HARP2.20240905T195741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239093-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T195741",
+        "name": "PACE_OCI.20240905T195741.L1C.V3.5km.nc",
+        "concept_id": "G3408347765-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T200241",
+      "harp": {
+        "stamp": "20240905T200241",
+        "name": "PACE_HARP2.20240905T200241.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239098-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T200241",
+        "name": "PACE_OCI.20240905T200241.L1C.V3.5km.nc",
+        "concept_id": "G3408347773-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T200741",
+      "harp": {
+        "stamp": "20240905T200741",
+        "name": "PACE_HARP2.20240905T200741.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239080-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T200741",
+        "name": "PACE_OCI.20240905T200741.L1C.V3.5km.nc",
+        "concept_id": "G3408347780-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T210059",
+      "harp": {
+        "stamp": "20240905T210059",
+        "name": "PACE_HARP2.20240905T210059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239090-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T210059",
+        "name": "PACE_OCI.20240905T210059.L1C.V3.5km.nc",
+        "concept_id": "G3408347802-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T210559",
+      "harp": {
+        "stamp": "20240905T210559",
+        "name": "PACE_HARP2.20240905T210559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239101-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T210559",
+        "name": "PACE_OCI.20240905T210559.L1C.V3.5km.nc",
+        "concept_id": "G3408347774-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T211059",
+      "harp": {
+        "stamp": "20240905T211059",
+        "name": "PACE_HARP2.20240905T211059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239103-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T211059",
+        "name": "PACE_OCI.20240905T211059.L1C.V3.5km.nc",
+        "concept_id": "G3408347807-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T211559",
+      "harp": {
+        "stamp": "20240905T211559",
+        "name": "PACE_HARP2.20240905T211559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239094-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T211559",
+        "name": "PACE_OCI.20240905T211559.L1C.V3.5km.nc",
+        "concept_id": "G3408347884-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T212059",
+      "harp": {
+        "stamp": "20240905T212059",
+        "name": "PACE_HARP2.20240905T212059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239106-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T212059",
+        "name": "PACE_OCI.20240905T212059.L1C.V3.5km.nc",
+        "concept_id": "G3408347842-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T212559",
+      "harp": {
+        "stamp": "20240905T212559",
+        "name": "PACE_HARP2.20240905T212559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239112-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T212559",
+        "name": "PACE_OCI.20240905T212559.L1C.V3.5km.nc",
+        "concept_id": "G3408347819-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T213059",
+      "harp": {
+        "stamp": "20240905T213059",
+        "name": "PACE_HARP2.20240905T213059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239092-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T213059",
+        "name": "PACE_OCI.20240905T213059.L1C.V3.5km.nc",
+        "concept_id": "G3408347829-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T213559",
+      "harp": {
+        "stamp": "20240905T213559",
+        "name": "PACE_HARP2.20240905T213559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239095-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T213559",
+        "name": "PACE_OCI.20240905T213559.L1C.V3.5km.nc",
+        "concept_id": "G3408347927-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T214059",
+      "harp": {
+        "stamp": "20240905T214059",
+        "name": "PACE_HARP2.20240905T214059.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239099-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T214059",
+        "name": "PACE_OCI.20240905T214059.L1C.V3.5km.nc",
+        "concept_id": "G3408346907-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T214559",
+      "harp": {
+        "stamp": "20240905T214559",
+        "name": "PACE_HARP2.20240905T214559.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239107-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T214559",
+        "name": "PACE_OCI.20240905T214559.L1C.V3.5km.nc",
+        "concept_id": "G3408346877-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T223916",
+      "harp": {
+        "stamp": "20240905T223916",
+        "name": "PACE_HARP2.20240905T223916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239091-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T223916",
+        "name": "PACE_OCI.20240905T223916.L1C.V3.5km.nc",
+        "concept_id": "G3408346926-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T224416",
+      "harp": {
+        "stamp": "20240905T224416",
+        "name": "PACE_HARP2.20240905T224416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239100-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T224416",
+        "name": "PACE_OCI.20240905T224416.L1C.V3.5km.nc",
+        "concept_id": "G3408348087-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T224916",
+      "harp": {
+        "stamp": "20240905T224916",
+        "name": "PACE_HARP2.20240905T224916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239102-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T224916",
+        "name": "PACE_OCI.20240905T224916.L1C.V3.5km.nc",
+        "concept_id": "G3408348006-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T225416",
+      "harp": {
+        "stamp": "20240905T225416",
+        "name": "PACE_HARP2.20240905T225416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239120-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T225416",
+        "name": "PACE_OCI.20240905T225416.L1C.V3.5km.nc",
+        "concept_id": "G3408356348-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T225916",
+      "harp": {
+        "stamp": "20240905T225916",
+        "name": "PACE_HARP2.20240905T225916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239110-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T225916",
+        "name": "PACE_OCI.20240905T225916.L1C.V3.5km.nc",
+        "concept_id": "G3408356324-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T230416",
+      "harp": {
+        "stamp": "20240905T230416",
+        "name": "PACE_HARP2.20240905T230416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239265-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T230416",
+        "name": "PACE_OCI.20240905T230416.L1C.V3.5km.nc",
+        "concept_id": "G3408356339-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T230916",
+      "harp": {
+        "stamp": "20240905T230916",
+        "name": "PACE_HARP2.20240905T230916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239105-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T230916",
+        "name": "PACE_OCI.20240905T230916.L1C.V3.5km.nc",
+        "concept_id": "G3408347854-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T231416",
+      "harp": {
+        "stamp": "20240905T231416",
+        "name": "PACE_HARP2.20240905T231416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239117-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T231416",
+        "name": "PACE_OCI.20240905T231416.L1C.V3.5km.nc",
+        "concept_id": "G3408347951-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T231916",
+      "harp": {
+        "stamp": "20240905T231916",
+        "name": "PACE_HARP2.20240905T231916.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239096-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T231916",
+        "name": "PACE_OCI.20240905T231916.L1C.V3.5km.nc",
+        "concept_id": "G3408347109-OB_CLOUD"
+      }
+    },
+    {
+      "stamp": "20240905T232416",
+      "harp": {
+        "stamp": "20240905T232416",
+        "name": "PACE_HARP2.20240905T232416.L2.CLOUD_GPC.V4_0.nc",
+        "concept_id": "G4255239097-OB_CLOUD"
+      },
+      "oci": {
+        "stamp": "20240905T232416",
+        "name": "PACE_OCI.20240905T232416.L1C.V3.5km.nc",
+        "concept_id": "G3408347136-OB_CLOUD"
+      }
+    }
+  ]
+}

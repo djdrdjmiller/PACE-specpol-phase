@@ -1,0 +1,8 @@
+# Copy to arcsix.local.toml and select with PACE_CONFIG (see README).
+[paths]
+lut_root = "~/Data/LUT/OCI_Cloud/PACE_265_LUTS_2026"
+pair_cache = "../work/arcsix_20240610T154205/pairs"
+work_root = "../work/arcsix_20240610T154205/reference"
+airborne_root = "../data/arcsix"
+export_root = "../outputs/arcsix_20240610T154205"
+
