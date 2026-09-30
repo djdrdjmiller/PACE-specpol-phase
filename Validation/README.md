@@ -10,6 +10,7 @@ production entry points. Install the package and configure paths using the
 | [analysis_liquid_reference.ipynb](notebooks/analysis_liquid_reference.ipynb) | Start from completed paired data; prepare atmospheric correction and four liquid-reference variants |
 | [analysis_arcsix_single_granule.ipynb](notebooks/analysis_arcsix_single_granule.ipynb) | June 10 single-granule extraction, reference comparison, and airborne validation cells |
 | [presentation_arcsix_single_granule.ipynb](notebooks/presentation_arcsix_single_granule.ipynb) | Read completed Arctic caches; export three aligned threshold dashboards and OCI true-color context for slides |
+| [export_html_dashboard.ipynb](notebooks/export_html_dashboard.ipynb) | Export standalone HTML dashboard with interactive threshold slider for easy sharing with colleagues |
 
 The Arctic notebook uses the exact `20240610T154205` granule. Select a distinct
 Arctic path configuration; the example September and Arctic configs use separate
